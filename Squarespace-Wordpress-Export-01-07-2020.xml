@@ -1,0 +1,2775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>US Gondola Nationals</title>
+    <link>https://www.usgondolanationals.com</link>
+    <pubDate>Mon, 25 Jun 2018 19:40:36 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>2057553588</wp:author_id>
+      <wp:author_login>eyoung02@wildcats.jwu.edu</wp:author_login>
+      <wp:author_email>eyoung02@wildcats.jwu.edu</wp:author_email>
+      <wp:author_display_name><![CDATA[erin young]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[erin]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[young]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/take-action</link>
+      <title>Registration</title>
+      <pubDate>Wed, 01 Aug 2018 15:38:11 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">REGISTRATION</h1><p class="text-align-center">Join us for the US Gondola Nationals this year hosted by <a target="_blank" href="https://www.gondolari.com/home">La Gondola Providence, Inc</a>. In the heart of Providence, Rhode Island!</p><p class="text-align-center">Register you and your team to compete in friendly competition, meet other gondola companies, and participate in other fun activities!&nbsp;</p><p class="text-align-center">Complete the registration form below and we will see you at USGN 2018!&nbsp;</p><p class="text-align-center"> </p><blockquote class="text-align-center">All payments must be completed in the form of a check and submitted by mail to USGN co: Marcello at 6 North Road Foster, Rhode Island 02825. Thank You!</blockquote>
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="5b47b0af03ce64097aab3a0d"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://cranberry-rectangle-2c67.squarespace.com"
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '5b47b0af03ce64097aab3a0d',
+      collectionId: '',
+      objectName: ''
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1531424851675_8599" class="form-item fields name required">
+              <div class="title">Name <span class="required">*</span></div>
+              <legend>Name</legend>
+              
+                <div class="field first-name">
+                  <label class="caption"><input class="field-element field-control" name="fname"
+                  x-autocompletetype="given-name" type="text"
+                  spellcheck="false"
+                  maxlength="30"
+                  data-title="First" />
+                  First Name</label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption"><input class="field-element field-control" name="lname"
+                  x-autocompletetype="surname" type="text"
+                  spellcheck="false" maxlength="30" data-title="Last" />
+                  Last Name</label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_1_1531421225622_27007" class="form-item field text">
+                <label class="title" for="text-yui_3_17_2_1_1531421225622_27007-field">Gondolier Name</label>
+                
+                <input class="field-element text" type="text" id="text-yui_3_17_2_1_1531421225622_27007-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="phone-yui_3_17_2_1_1531421225622_28264" class="form-item fields phone required">
+              <div class="title">Cell Phone Number <span class="required">*</span></div>
+              <legend>Cell Phone Number</legend>
+              
+                
+                <div class="field text three-digits">
+                  <label class="caption"><input class="field-element" x-autocompletetype="phone-area-code" type="text"
+                  maxlength="3" data-title="Areacode" />
+                  (###)</label>
+                </div>
+                <div class="field text three-digits">
+                  <label class="caption"><input class="field-element" x-autocompletetype="phone-local-prefix" type="text"
+                  maxlength="3" data-title="Prefix" />
+                  ###</label>
+                </div>
+                <div class="field text four-digits">
+                  <label class="caption"><input class="field-element" x-autocompletetype="phone-local-suffix" type="text"
+                  maxlength="4" data-title="Line" />
+                  ####</label>
+                </div>
+              </fieldset>
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1531424851675_8600" class="form-item field email required">
+                <label class="title" for="email-yui_3_17_2_1_1531424851675_8600-field">Email Address <span class="required">*</span></label>
+                
+                <input class="field-element" id="email-yui_3_17_2_1_1531424851675_8600-field"
+                  name="email" type="email" autocomplete="email" spellcheck="false"
+                   />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="address-yui_3_17_2_1_1531421225622_29290" class="form-item fields address required">
+                <div class="title">Address <span class="required">*</span></div>
+                <legend>Address</legend>
+                
+                <div class="field address1">
+                  <label class="caption"><input class="field-element field-control" name="address"
+                  x-autocompletetype="address-line1" type="text"
+                  spellcheck="false" data-title="Line1" />
+                  Address 1</label>
+                </div>
+                <div class="field address2">
+                  <label class="caption"><input class="field-element field-control" name="address2" x-autocompletetype="address-line2" type="text"
+                  spellcheck="false" data-title="Line2" />
+                  Address 2</label>
+                </div>
+                <div class="field city">
+                  <label class="caption"><input class="field-element field-control" name="city" x-autocompletetype="city"
+                  type="text"
+                  spellcheck="false" data-title="City" />
+                  City</label>
+                </div>
+                <div class="field state-province">
+                  <label class="caption"><input class="field-element field-control" name="state" x-autocompletetype="state"
+                  type="text"
+                  spellcheck="false" data-title="State" />
+                  State/Province</label>
+                </div>
+                <div class="field zip">
+                  <label class="caption"><input class="field-element field-control" name="zipcode"
+                  x-autocompletetype="postal-code" type="text"
+                  spellcheck="false" data-title="Zip" />
+                  Zip/Postal Code</label>
+                </div>
+                <div class="field country">
+                  <label class="caption"><input class="field-element field-control" name="country"
+                  x-autocompletetype="country"
+                  type="text"
+                  spellcheck="false" data-title="Country" />
+                  Country</label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="select-yui_3_17_2_1_1533135105067_34893" class="form-item field select required">
+                <label class="title" for="select-yui_3_17_2_1_1533135105067_34893-field">Select Size of T-shirt <span class="required">*</span></label>
+                
+                <select name="select-yui_3_17_2_1_1533135105067_34893-field">
+                  
+                    <option value="Small">Small</option>
+                  
+                    <option value="Medium">Medium</option>
+                  
+                    <option value="Large">Large</option>
+                  
+                </select>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="select-yui_3_17_2_1_1533135105067_35581" class="form-item field select required">
+                <label class="title" for="select-yui_3_17_2_1_1533135105067_35581-field">Additional T-shirts <span class="required">*</span></label>
+                <div class="description">$15 each</div>
+                <select name="select-yui_3_17_2_1_1533135105067_35581-field">
+                  
+                    <option value="None (+0)">None (+0)</option>
+                  
+                    <option value="One(+$15)">One(+$15)</option>
+                  
+                    <option value="Two(+$30)">Two(+$30)</option>
+                  
+                    <option value="Three(+$45)">Three(+$45)</option>
+                  
+                    <option value="Four(+$60)">Four(+$60)</option>
+                  
+                    <option value="Five(+$75)">Five(+$75)</option>
+                  
+                </select>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="select-yui_3_17_2_1_1533135105067_36273" class="form-item field select required">
+                <label class="title" for="select-yui_3_17_2_1_1533135105067_36273-field">Additional Guests For Awards Banquet <span class="required">*</span></label>
+                <div class="description">additional $30 per guest</div>
+                <select name="select-yui_3_17_2_1_1533135105067_36273-field">
+                  
+                    <option value="None(+$0)">None(+$0)</option>
+                  
+                    <option value="One(+$30)">One(+$30)</option>
+                  
+                    <option value="Two(+$60)">Two(+$60)</option>
+                  
+                    <option value="Three(+$90)">Three(+$90)</option>
+                  
+                    <option value="Four(+$120)">Four(+$120)</option>
+                  
+                    <option value="Five(+$150)">Five(+$150)</option>
+                  
+                </select>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_1_1533135105067_36975" class="form-item field text">
+                <label class="title" for="text-yui_3_17_2_1_1533135105067_36975-field">There is a $60 Entry Fee (includes 1 T-shirt and dinner for Gondolier Meet and Greet and the Awards Banquet)</label>
+                <div class="description">Please make Checks Payable to US Gondola Nationals and mail to:
+USGN co: Marcello
+6 North Road
+Foster, Rhode Island 02825
+</div>
+                <input class="field-element text" type="text" id="text-yui_3_17_2_1_1533135105067_36975-field" placeholder="null" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="checkbox-yui_3_17_2_1_1531421225622_30164" class="form-item field checkbox">
+                <div class="title" for="checkbox-yui_3_17_2_1_1531421225622_30164-field">Please Select In Which Races You Wish To Participate:</div>
+                
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-yui_3_17_2_1_1531421225622_30164-field" value="Single Sprint"/> Single Sprint</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-yui_3_17_2_1_1531421225622_30164-field" value="Tandem Sprint"/> Tandem Sprint</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-yui_3_17_2_1_1531421225622_30164-field" value="Sandolo Valesano Solo"/> Sandolo Valesano Solo</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-yui_3_17_2_1_1531421225622_30164-field" value="Single Distance"/> Single Distance</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-yui_3_17_2_1_1531421225622_30164-field" value="Tandem Distance"/> Tandem Distance</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-yui_3_17_2_1_1531421225622_30164-field" value="Single Slalom"/> Single Slalom</label></div>
+                
+                <div class="option"><label><input type="checkbox" name="checkbox-yui_3_17_2_1_1531421225622_30164-field" value="Tandem Slalom"/> Tandem Slalom</label></div>
+                
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div class="form-button-wrapper form-button-wrapper--align-center">
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Submit"/>
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text"><p>Thank You- We are looking forward to seeing you at this year’s US Gondola Nationals!</p></div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>]]></content:encoded>
+      <wp:post_name>take-action</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Fri, 13 Jul 2018 20:02:09 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">Benvenuto! Join us for the most fun a Gondolier will ever have (outside of Venice)!</h1>&nbsp;<p class="text-align-center">US Gondola Nationals 2018 will be hosted in the heart of Providence, Rhode Island by <a target="_blank" href="http://www.gondolari.com">La Gondola Providence</a> from November 9-11th.</p><p class="text-align-center">An opportunity to meet fellow Gondoliers from across the nation, and participate in single and tandem races along the Providence River Walk. Preview our <a href="/events">event schedule</a>, and take a look at <a href="/2017-1">past winners</a>.&nbsp;</p><p class="text-align-center">Amazing chance to row during Providence's WaterFire event!</p><p class="text-align-center"><em>All photography provided by <a target="_blank" href="http://www.gondolagreg.com">Greg Mohr.</a></em></p>&nbsp;&nbsp;
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1530014523191-1R477G5278CJJNBODND7/ke17ZwdGBToddI8pDm48kCyQYvoCtAJsP3FSg_zG80B7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Uf9yi267dCENUrt-3tJuLna5B2W3pliKMuBvf29M6ooAAEWBWR6SmtzKWx2Ta0VnXw/DSC_1279.JPG?format=original" alt=""/>
+  
+
+
+  
+      <a href="/what-we-do-bedford" ><img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1530014178094-BKYWB5TMVGTYPXDYNRT6/ke17ZwdGBToddI8pDm48kCyQYvoCtAJsP3FSg_zG80B7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Uf9yi267dCENUrt-3tJuLna5B2W3pliKMuBvf29M6ooAAEWBWR6SmtzKWx2Ta0VnXw/Sonnen+-+GondolaNationals2016_RFS5309.jpg?format=original" alt=""/></a>
+  
+
+<h2><strong>WaterFire</strong></h2><p>Providence's popular WaterFires bring visitors from across the nation and around the world to experience these events. We are excited to offer this opportunity to row in the incredible ambiance to all visiting gondoliers who are interested in doing so. Come and row in an atmosphere unlike any other in the world.</p>&nbsp;&nbsp;
+ 
+   <iframe src="//www.youtube.com/embed/z1Z4l-RR3q0?wmode=opaque&amp;enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen="">
+</iframe>
+ 
+&nbsp;]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/events</link>
+      <title>Events</title>
+      <pubDate>Sat, 10 Nov 2018 15:22:00 +0000</pubDate>
+      <content:encoded><![CDATA[<h2 style="white-space: pre-wrap;">US GONDOLA NATIONALS 2018</h2><p style="white-space: pre-wrap;">This Year's US Gondola Nationals will be hosted by<a href="https://www.gondolari.com/" target="_blank"> La Gondola Providence, Inc</a>. The convention will take place form November 9th through the 11th in the heart of Rhode Island and all of our events will be around the Providence River.&nbsp;</p>&nbsp;<h1 style="white-space: pre-wrap;"><strong>OVERVIEW</strong></h1><ul data-rte-list="default"><li><p style="white-space: pre-wrap;">Social events for fellow Gondoliers to mix and mingle</p></li><li><p style="white-space: pre-wrap;">Many races, including distance, sprint, and slalom</p></li><li><p style="white-space: pre-wrap;">Incredible opportunity to row during Providence's last Waterfire of the season</p></li><li><p style="white-space: pre-wrap;">Awards banquet to commemorate the races</p></li><li><p style="white-space: pre-wrap;">Welcome to all Gondoliers and friends and family</p></li><li><p style="white-space: pre-wrap;">For travelers; the nearest airport is (PVD)</p></li></ul>&nbsp;&nbsp;<h2 style="text-align: center; white-space: pre-wrap;">EVENTS SCHEDULE</h2><hr /><h1 style="text-align: center; white-space: pre-wrap;"><strong>FRIDAY</strong></h1><h1 style="text-align: center; white-space: pre-wrap;"><strong>NOV 9</strong></h1><h3 style="white-space: pre-wrap;"><strong>Social Event</strong></h3><p style="margin-left: 40px; white-space: pre-wrap;">Friday Evening we will be having a social event at <a href="https://www.johnharvards.com/locations/providence-ri/" target="_blank">Union Station Brewery</a>&nbsp;at 36 Exchange Terrace, Providence, RI 02903. This is the PVD Gondolier hang-out location.</p>&nbsp;<h1 style="text-align: center; white-space: pre-wrap;"><a href="/s/USGN_Saturday_Schedule.pdf"><strong>SATURDAY</strong></a></h1><h1 style="text-align: center; white-space: pre-wrap;"><a href="/s/USGN_Saturday_Schedule.pdf"><strong>NOV 10</strong></a></h1><h3 style="white-space: pre-wrap;"><strong>Races and Waterfire</strong></h3><p style="margin-left: 40px; white-space: pre-wrap;">Races will be held from late Saturday morning until late afternoon.<br><strong><br></strong><a href="/s/USGN_Saturday_Schedule.pdf" target="_blank"><strong><em>(click for detailed schedule)</em></strong></a></p><p style="margin-left: 40px; white-space: pre-wrap;">5-11pm Waterfire Event.<br>Visiting Gondoliers are given the opportunity to row with one of our local gondoliers during the season's last Waterfire event. The theme for this fire is a Salute to Veterans for Veteran's Day Weekend. Catered food and beverages will also be provided.</p>&nbsp;<h1 style="text-align: center; white-space: pre-wrap;"><a href="/s/USGN_Sunday_Schedule.pdf"><strong>SUNDAY</strong></a></h1><h1 style="text-align: center; white-space: pre-wrap;"><a href="/s/USGN_Sunday_Schedule.pdf"><strong>NOV 11</strong></a></h1><h3 style="white-space: pre-wrap;"><strong>RACES AND AWARDS</strong></h3><p style="margin-left: 40px; white-space: pre-wrap;">Races held from late Sunday morning until the late afternoon.<br><br><a href="/s/USGN_Sunday_Schedule.pdf" target="_blank"><strong><em>(click for detailed schedule)</em></strong></a></p><p style="margin-left: 40px; white-space: pre-wrap;">Awards Banquet to ensue after the races Sunday evening.</p>&nbsp;]]></content:encoded>
+      <wp:post_name>events</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact</link>
+      <title>Contact</title>
+      <pubDate>Thu, 12 Jul 2018 20:22:36 +0000</pubDate>
+      <content:encoded><![CDATA[<h2 style="margin-left:0px; margin-right:0px" class="text-align-center">Call or Visit</h2><h3><strong>La Gondola Providence, Inc.</strong></h3><p>1 Citizens Plaza<br />Providence, RI 02903<br /><strong>Tel:</strong> (401)-421-8877</p><h3>Email</h3><p>General Inquiries<br />la.gondola.providence@gmail.com</p>&nbsp;]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/photo-gallery</link>
+      <title>Gallery</title>
+      <pubDate>Fri, 29 Jun 2018 19:56:03 +0000</pubDate>
+      <content:encoded><![CDATA[<p> </p>
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1530129219522-NXXUBAOUDOWMZLX0U72R/ke17ZwdGBToddI8pDm48kHA4OGDhyppkDRxrvc4J9rRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIYgeRQf8k_NytRIISkSUAwHnHV9MyFNRi8rUYVVbVHQ8KMshLAGzx4R3EDFOm1kBS/tandem+sprint+-+Greg+and+John+-Elisa+Mohr.jpg?format=original" alt=""/>
+  
+
+<p class="text-align-center"><a href="/past-results">See The 2014 Results</a></p>
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1530301740596-FXXIE7T4540NQ80SIIYF/ke17ZwdGBToddI8pDm48kGwIfFmSCGUIuXzqyPUotORZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI8oCzinbi4z2FmXh2Ef31kxoodcJr37veIiIe3VQdkwwKMshLAGzx4R3EDFOm1kBS/DSC_0351.JPG?format=original" alt=""/>
+  
+
+<p class="text-align-center"><a href="/2016-1">See the 2016 Results</a></p>
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1530129112541-7TG1PZDRNF2KYIHZ9VJE/ke17ZwdGBToddI8pDm48kOzBS1jDzJRmQA5ayDq8yKVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwKxyCECaiYKg0CReUF4ehxpoZEHjC8DAWUhenTY_n0iADwo8yGS0rQGfHtCawHcV4/The+Photo+-+Mindy+Schauer.png?format=original" alt=""/>
+  
+
+<p class="text-align-center"><a href="/2015-1">See the 2015 Results</a></p>
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1530302071266-PA4QAY9PWYLIPUUA5RFI/ke17ZwdGBToddI8pDm48kEbpNpz_g84ww2Q11MA-atpZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFBtEgj52mM8uXJqXwNJ9DglJgC4wo-TZ2620CX9P9wUp1zDMfxjoXGDCxwz3Y9Vxg/IMG_2126.JPG?format=original" alt=""/>
+  
+
+<p class="text-align-center"><a href="/2017-1">See the 2017 Results</a></p>]]></content:encoded>
+      <wp:post_name>photo-gallery</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>2014</title>
+      <link>/gallery-2014-providence</link>
+      <pubDate>Fri, 29 Jun 2018 20:25:47 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338a9f88251b930fe5b3ae/1530303947124/2+rowing+under+bridge.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338a9f70a6ad7633d7cbd1/1530111084747/3+boats+in+a+row.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa0f950b7fadb963f18/1530110824631/Charlie+turn.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa06d2a73a4df367c97/1530303947029/Cole+photo+-+Eric+and+Richie+3.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa1f950b7fadb963f2f/1530303947040/Cole+photo+-+Eric+and+Richie+4.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa11ae6cfcc9dc56181/1530303947043/Distance-sunreflection-Cole+Hanson.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa12b6a283f4addf83a/1530112540224/fall+rowing.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa1758d466cb5a7455a/1530115232845/greg+slalom+snapshot-Elisa+Mohr.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa270a6ad7633d7cc65/1530115251946/Haynes+Brothers+-John+Kerschbaum.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa26d2a73a4df367cad/1530303947025/Haynes+pushoff+-+John+Kershbaum.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa3758d466cb5a74569/1530303947117/Shoeless+Tim+1488.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa403ce64de32aa7d2c/1530303947112/slalom+2014+1177-elisa+mohr.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa4562fa7d3bac90887/1530303947173/slalom+2014+alberto-e.mohr.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa5f950b7fadb963fd9/1530303947120/slalom+2014+charlie-e.mohr.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa7575d1f26aa21bbea/1530303947135/slalom+2014-elisa+Mohr.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa970a6ad7633d7cd2b/1530303947044/standings-John+Kerschbaum.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa988251b930fe5b522/1530303947039/solo+races-+cole+Hanson.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aaa70a6ad7633d7cd37/1530115303918/Tandem+Haynes+-+John+Kerschbaum.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aaa88251b930fe5b533/1530303947021/tandem+distance-+Ivano+and+Amadeo-+J+Kerschbaum.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aab758d466cb5a746c7/1530115261128/Tandem+Haynes-Matthew+-+John+Kerschbaum.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aab575d1f26aa21bc19/1530303947136/tandem+sprint+-+Greg+and+John+-Elisa+Mohr.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aacf950b7fadb96413d/1530303947146/tandem+sprint+-+Marcello+and+Alessandro.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aac03ce64de32aa7ecb/1530303947062/under+bridge-cole+hanson.jpg" /></div>]]></content:encoded>
+      <wp:post_name>gallery-2014-providence</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338a9f88251b930fe5b3ae/1530303947124/2+rowing+under+bridge.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338a9f88251b930fe5b3ae/1530303947124/2+rowing+under+bridge.jpg</link>
+      <title>attachment-5b338a9f88251b930fe5b3ae</title>
+      <wp:post_name>2-rowing-under-bridge-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338a9f88251b930fe5b3ae]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338a9f88251b930fe5b3ae]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:19 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:19</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:19</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338a9f70a6ad7633d7cbd1/1530111084747/3+boats+in+a+row.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338a9f70a6ad7633d7cbd1/1530111084747/3+boats+in+a+row.JPG</link>
+      <title>attachment-5b338a9f70a6ad7633d7cbd1</title>
+      <wp:post_name>3-boats-in-a-row-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338a9f70a6ad7633d7cbd1]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338a9f70a6ad7633d7cbd1]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:19 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:19</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:19</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa0f950b7fadb963f18/1530110824631/Charlie+turn.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa0f950b7fadb963f18/1530110824631/Charlie+turn.JPG</link>
+      <title>attachment-5b338aa0f950b7fadb963f18</title>
+      <wp:post_name>Charlie-turn-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>8</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aa0f950b7fadb963f18]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aa0f950b7fadb963f18]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:20 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:20</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:20</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa06d2a73a4df367c97/1530303947029/Cole+photo+-+Eric+and+Richie+3.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa06d2a73a4df367c97/1530303947029/Cole+photo+-+Eric+and+Richie+3.jpg</link>
+      <title>attachment-5b338aa06d2a73a4df367c97</title>
+      <wp:post_name>Cole-photo-Eric-and-Richie-3-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>9</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aa06d2a73a4df367c97]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aa06d2a73a4df367c97]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:20 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:20</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:20</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa1f950b7fadb963f2f/1530303947040/Cole+photo+-+Eric+and+Richie+4.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa1f950b7fadb963f2f/1530303947040/Cole+photo+-+Eric+and+Richie+4.jpg</link>
+      <title>attachment-5b338aa1f950b7fadb963f2f</title>
+      <wp:post_name>Cole-photo-Eric-and-Richie-4-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>10</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aa1f950b7fadb963f2f]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aa1f950b7fadb963f2f]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:21 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:21</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:21</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa11ae6cfcc9dc56181/1530303947043/Distance-sunreflection-Cole+Hanson.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa11ae6cfcc9dc56181/1530303947043/Distance-sunreflection-Cole+Hanson.jpg</link>
+      <title>attachment-5b338aa11ae6cfcc9dc56181</title>
+      <wp:post_name>Distance-sunreflection-Cole-Hanson-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>11</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aa11ae6cfcc9dc56181]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aa11ae6cfcc9dc56181]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:21 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:21</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:21</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa12b6a283f4addf83a/1530112540224/fall+rowing.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa12b6a283f4addf83a/1530112540224/fall+rowing.JPG</link>
+      <title>attachment-5b338aa12b6a283f4addf83a</title>
+      <wp:post_name>fall-rowing-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>12</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aa12b6a283f4addf83a]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aa12b6a283f4addf83a]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:21 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:21</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:21</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa1758d466cb5a7455a/1530115232845/greg+slalom+snapshot-Elisa+Mohr.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa1758d466cb5a7455a/1530115232845/greg+slalom+snapshot-Elisa+Mohr.JPG</link>
+      <title>attachment-5b338aa1758d466cb5a7455a</title>
+      <wp:post_name>greg-slalom-snapshot-Elisa-Mohr-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>13</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aa1758d466cb5a7455a]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aa1758d466cb5a7455a]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:21 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:21</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:21</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa270a6ad7633d7cc65/1530115251946/Haynes+Brothers+-John+Kerschbaum.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa270a6ad7633d7cc65/1530115251946/Haynes+Brothers+-John+Kerschbaum.JPG</link>
+      <title>attachment-5b338aa270a6ad7633d7cc65</title>
+      <wp:post_name>Haynes-Brothers-John-Kerschbaum-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>14</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aa270a6ad7633d7cc65]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aa270a6ad7633d7cc65]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:22 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:22</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:22</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa26d2a73a4df367cad/1530303947025/Haynes+pushoff+-+John+Kershbaum.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa26d2a73a4df367cad/1530303947025/Haynes+pushoff+-+John+Kershbaum.JPG</link>
+      <title>attachment-5b338aa26d2a73a4df367cad</title>
+      <wp:post_name>Haynes-pushoff-John-Kershbaum-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>15</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aa26d2a73a4df367cad]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aa26d2a73a4df367cad]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:22 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:22</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:22</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa3758d466cb5a74569/1530303947117/Shoeless+Tim+1488.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa3758d466cb5a74569/1530303947117/Shoeless+Tim+1488.jpg</link>
+      <title>attachment-5b338aa3758d466cb5a74569</title>
+      <wp:post_name>Shoeless-Tim-1488-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>16</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aa3758d466cb5a74569]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aa3758d466cb5a74569]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:23 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:23</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:23</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa403ce64de32aa7d2c/1530303947112/slalom+2014+1177-elisa+mohr.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa403ce64de32aa7d2c/1530303947112/slalom+2014+1177-elisa+mohr.jpg</link>
+      <title>attachment-5b338aa403ce64de32aa7d2c</title>
+      <wp:post_name>slalom-2014-1177-elisa-mohr-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>17</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aa403ce64de32aa7d2c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aa403ce64de32aa7d2c]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:24 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:24</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:24</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa4562fa7d3bac90887/1530303947173/slalom+2014+alberto-e.mohr.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa4562fa7d3bac90887/1530303947173/slalom+2014+alberto-e.mohr.jpg</link>
+      <title>attachment-5b338aa4562fa7d3bac90887</title>
+      <wp:post_name>slalom-2014-alberto-e-mohr-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>18</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aa4562fa7d3bac90887]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aa4562fa7d3bac90887]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:24 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:24</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:24</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa5f950b7fadb963fd9/1530303947120/slalom+2014+charlie-e.mohr.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa5f950b7fadb963fd9/1530303947120/slalom+2014+charlie-e.mohr.jpg</link>
+      <title>attachment-5b338aa5f950b7fadb963fd9</title>
+      <wp:post_name>slalom-2014-charlie-e-mohr-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>19</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aa5f950b7fadb963fd9]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aa5f950b7fadb963fd9]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:25 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:25</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:25</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa7575d1f26aa21bbea/1530303947135/slalom+2014-elisa+Mohr.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa7575d1f26aa21bbea/1530303947135/slalom+2014-elisa+Mohr.jpg</link>
+      <title>attachment-5b338aa7575d1f26aa21bbea</title>
+      <wp:post_name>slalom-2014-elisa-Mohr-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>20</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aa7575d1f26aa21bbea]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aa7575d1f26aa21bbea]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:27 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:27</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:27</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa970a6ad7633d7cd2b/1530303947044/standings-John+Kerschbaum.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa970a6ad7633d7cd2b/1530303947044/standings-John+Kerschbaum.jpg</link>
+      <title>attachment-5b338aa970a6ad7633d7cd2b</title>
+      <wp:post_name>standings-John-Kerschbaum-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>21</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aa970a6ad7633d7cd2b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aa970a6ad7633d7cd2b]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:29 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:29</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:29</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa988251b930fe5b522/1530303947039/solo+races-+cole+Hanson.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aa988251b930fe5b522/1530303947039/solo+races-+cole+Hanson.jpg</link>
+      <title>attachment-5b338aa988251b930fe5b522</title>
+      <wp:post_name>solo-races-cole-Hanson-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>22</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aa988251b930fe5b522]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aa988251b930fe5b522]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:29 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:29</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:29</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aaa70a6ad7633d7cd37/1530115303918/Tandem+Haynes+-+John+Kerschbaum.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aaa70a6ad7633d7cd37/1530115303918/Tandem+Haynes+-+John+Kerschbaum.JPG</link>
+      <title>attachment-5b338aaa70a6ad7633d7cd37</title>
+      <wp:post_name>Tandem-Haynes-John-Kerschbaum-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>23</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aaa70a6ad7633d7cd37]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aaa70a6ad7633d7cd37]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:30 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:30</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:30</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aaa88251b930fe5b533/1530303947021/tandem+distance-+Ivano+and+Amadeo-+J+Kerschbaum.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aaa88251b930fe5b533/1530303947021/tandem+distance-+Ivano+and+Amadeo-+J+Kerschbaum.JPG</link>
+      <title>attachment-5b338aaa88251b930fe5b533</title>
+      <wp:post_name>tandem-distance-Ivano-and-Amadeo-J-Kerschbaum-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>24</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aaa88251b930fe5b533]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aaa88251b930fe5b533]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:30 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:30</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:30</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aab758d466cb5a746c7/1530115261128/Tandem+Haynes-Matthew+-+John+Kerschbaum.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aab758d466cb5a746c7/1530115261128/Tandem+Haynes-Matthew+-+John+Kerschbaum.JPG</link>
+      <title>attachment-5b338aab758d466cb5a746c7</title>
+      <wp:post_name>Tandem-Haynes-Matthew-John-Kerschbaum-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>25</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aab758d466cb5a746c7]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aab758d466cb5a746c7]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:31 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:31</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:31</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aab575d1f26aa21bc19/1530303947136/tandem+sprint+-+Greg+and+John+-Elisa+Mohr.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aab575d1f26aa21bc19/1530303947136/tandem+sprint+-+Greg+and+John+-Elisa+Mohr.jpg</link>
+      <title>attachment-5b338aab575d1f26aa21bc19</title>
+      <wp:post_name>tandem-sprint-Greg-and-John-Elisa-Mohr-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>26</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aab575d1f26aa21bc19]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aab575d1f26aa21bc19]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:31 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:31</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:31</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aacf950b7fadb96413d/1530303947146/tandem+sprint+-+Marcello+and+Alessandro.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aacf950b7fadb96413d/1530303947146/tandem+sprint+-+Marcello+and+Alessandro.jpg</link>
+      <title>attachment-5b338aacf950b7fadb96413d</title>
+      <wp:post_name>tandem-sprint-Marcello-and-Alessandro-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>27</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aacf950b7fadb96413d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aacf950b7fadb96413d]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:32 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:32</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:32</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aac03ce64de32aa7ecb/1530303947062/under+bridge-cole+hanson.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b33884d575d1f26aa216da0/5b338aac03ce64de32aa7ecb/1530303947062/under+bridge-cole+hanson.jpg</link>
+      <title>attachment-5b338aac03ce64de32aa7ecb</title>
+      <wp:post_name>under-bridge-cole-hanson-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>28</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b338aac03ce64de32aa7ecb]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b338aac03ce64de32aa7ecb]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 13:01:32 +0000</pubDate>
+      <wp:post_date>2018-06-27 13:01:32</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 13:01:32</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <title>2015</title>
+      <link>/2015</link>
+      <pubDate>Wed, 27 Jun 2018 19:44:50 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92a88251b02fd821fe1/1530128683950/003.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92aaa4a9928bb8ecbd0/1530128685111/006.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92b1ae6cf2cc42b48eb/1530128684848/007.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92bf950b7536b8e5fa7/1530128684636/009.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92b575d1f8dfc1f8eed/1530128685401/011.JPG-ignus+holm.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92b0e2e722d8b9a6603/1530128685083/012.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92c758d46ce4accdcac/1530128685613/013.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92c575d1f8dfc1f8f14/1530128685363/014.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92c70a6add633d5db9e/1530128685770/017.JPG-ignus+holm.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92c2b6a28a3e66d7e1e/1530128686019/023_01.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92daa4a9928bb8eccb3/1530128686224/028.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92d575d1f8dfc1f8f59/1530128687003/029.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92d6d2a73082ee107fe/1530128686639/035.JPG-ignus+holm.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92d562fa73708fafe7a/1530128686564/038.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92d88251b02fd8220c9/1530128687230/049.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92d8a922d4fddc67497/1530128686912/040.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92e70a6add633d5dc87/1530128687769/Alessandro+-+Joy+Sailing.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92eaa4a9928bb8eccc9/1530128687814/Gondola-+Rafaello+Ivano+-+Joy-Sailing.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92f352f53f1fcce4e43/1530128690361/Gondola-3002+family+-joy+sailing.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92f70a6add633d5dc93/1530128688060/Gondola-3189-ignus+holm.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92f03ce64393c5e2776/1530128688818/IMG_7584.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92f562fa73708faff75/1530128690322/IMG_7586.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e93070a6add633d5dcc7/1530128689432/IMG_7588.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e930562fa73708faffa6/1530128689392/IMG_7595.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e9300e2e722d8b9a6812/1530128689998/IMG_7597.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e9306d2a73082ee1096b/1530128689691/IMG_7598.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e9312b6a28a3e66d7e78/1530128690730/SEA+Tandem+screencap+%28jakob+and+greg+crossing%29+-+Simon+Atkins.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e931562fa73708faffe4/1530128690291/IMG_7603.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e932562fa73708fafff4/1530128690868/Strength.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e93288251b02fd82220f/1530128691310/The+Dance+-+Mindy+Schauer.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e932aa4a9928bb8ece2e/1530128691217/The+Man+-+Mindy+Schauer.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e932352f53f1fcce4f55/1530128691524/Tim+%26+Richie.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e9328a922d4fddc675e2/1530128693078/The+Photo+-+Mindy+Schauer.png" /></div>]]></content:encoded>
+      <wp:post_name>2015</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>29</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92a88251b02fd821fe1/1530128683950/003.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92a88251b02fd821fe1/1530128683950/003.JPG</link>
+      <title>attachment-5b33e92a88251b02fd821fe1</title>
+      <wp:post_name>003-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>30</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92a88251b02fd821fe1]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92a88251b02fd821fe1]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:42 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:42</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:42</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92aaa4a9928bb8ecbd0/1530128685111/006.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92aaa4a9928bb8ecbd0/1530128685111/006.JPG</link>
+      <title>attachment-5b33e92aaa4a9928bb8ecbd0</title>
+      <wp:post_name>006-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>31</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92aaa4a9928bb8ecbd0]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92aaa4a9928bb8ecbd0]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:42 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:42</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:42</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92b1ae6cf2cc42b48eb/1530128684848/007.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92b1ae6cf2cc42b48eb/1530128684848/007.JPG</link>
+      <title>attachment-5b33e92b1ae6cf2cc42b48eb</title>
+      <wp:post_name>007-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>32</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92b1ae6cf2cc42b48eb]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92b1ae6cf2cc42b48eb]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:43 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:43</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:43</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92bf950b7536b8e5fa7/1530128684636/009.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92bf950b7536b8e5fa7/1530128684636/009.JPG</link>
+      <title>attachment-5b33e92bf950b7536b8e5fa7</title>
+      <wp:post_name>009-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>33</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92bf950b7536b8e5fa7]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92bf950b7536b8e5fa7]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:43 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:43</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:43</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92b575d1f8dfc1f8eed/1530128685401/011.JPG-ignus+holm.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92b575d1f8dfc1f8eed/1530128685401/011.JPG-ignus+holm.JPG</link>
+      <title>attachment-5b33e92b575d1f8dfc1f8eed</title>
+      <wp:post_name>011-JPG-ignus-holm-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>34</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92b575d1f8dfc1f8eed]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92b575d1f8dfc1f8eed]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:43 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:43</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:43</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92b0e2e722d8b9a6603/1530128685083/012.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92b0e2e722d8b9a6603/1530128685083/012.JPG</link>
+      <title>attachment-5b33e92b0e2e722d8b9a6603</title>
+      <wp:post_name>012-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>35</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92b0e2e722d8b9a6603]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92b0e2e722d8b9a6603]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:43 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:43</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:43</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92c758d46ce4accdcac/1530128685613/013.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92c758d46ce4accdcac/1530128685613/013.JPG</link>
+      <title>attachment-5b33e92c758d46ce4accdcac</title>
+      <wp:post_name>013-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>36</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92c758d46ce4accdcac]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92c758d46ce4accdcac]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:44 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:44</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:44</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92c575d1f8dfc1f8f14/1530128685363/014.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92c575d1f8dfc1f8f14/1530128685363/014.JPG</link>
+      <title>attachment-5b33e92c575d1f8dfc1f8f14</title>
+      <wp:post_name>014-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>37</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92c575d1f8dfc1f8f14]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92c575d1f8dfc1f8f14]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:44 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:44</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:44</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92c70a6add633d5db9e/1530128685770/017.JPG-ignus+holm.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92c70a6add633d5db9e/1530128685770/017.JPG-ignus+holm.JPG</link>
+      <title>attachment-5b33e92c70a6add633d5db9e</title>
+      <wp:post_name>017-JPG-ignus-holm-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>38</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92c70a6add633d5db9e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92c70a6add633d5db9e]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:44 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:44</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:44</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92c2b6a28a3e66d7e1e/1530128686019/023_01.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92c2b6a28a3e66d7e1e/1530128686019/023_01.JPG</link>
+      <title>attachment-5b33e92c2b6a28a3e66d7e1e</title>
+      <wp:post_name>023-01-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>39</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92c2b6a28a3e66d7e1e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92c2b6a28a3e66d7e1e]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:44 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:44</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:44</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92daa4a9928bb8eccb3/1530128686224/028.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92daa4a9928bb8eccb3/1530128686224/028.JPG</link>
+      <title>attachment-5b33e92daa4a9928bb8eccb3</title>
+      <wp:post_name>028-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>40</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92daa4a9928bb8eccb3]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92daa4a9928bb8eccb3]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:45 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:45</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:45</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92d575d1f8dfc1f8f59/1530128687003/029.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92d575d1f8dfc1f8f59/1530128687003/029.JPG</link>
+      <title>attachment-5b33e92d575d1f8dfc1f8f59</title>
+      <wp:post_name>029-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>41</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92d575d1f8dfc1f8f59]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92d575d1f8dfc1f8f59]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:45 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:45</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:45</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92d6d2a73082ee107fe/1530128686639/035.JPG-ignus+holm.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92d6d2a73082ee107fe/1530128686639/035.JPG-ignus+holm.JPG</link>
+      <title>attachment-5b33e92d6d2a73082ee107fe</title>
+      <wp:post_name>035-JPG-ignus-holm-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>42</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92d6d2a73082ee107fe]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92d6d2a73082ee107fe]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:45 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:45</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:45</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92d562fa73708fafe7a/1530128686564/038.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92d562fa73708fafe7a/1530128686564/038.JPG</link>
+      <title>attachment-5b33e92d562fa73708fafe7a</title>
+      <wp:post_name>038-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>43</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92d562fa73708fafe7a]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92d562fa73708fafe7a]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:45 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:45</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:45</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92d88251b02fd8220c9/1530128687230/049.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92d88251b02fd8220c9/1530128687230/049.JPG</link>
+      <title>attachment-5b33e92d88251b02fd8220c9</title>
+      <wp:post_name>049-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>44</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92d88251b02fd8220c9]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92d88251b02fd8220c9]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:45 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:45</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:45</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92d8a922d4fddc67497/1530128686912/040.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92d8a922d4fddc67497/1530128686912/040.JPG</link>
+      <title>attachment-5b33e92d8a922d4fddc67497</title>
+      <wp:post_name>040-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>45</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92d8a922d4fddc67497]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92d8a922d4fddc67497]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:45 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:45</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:45</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92e70a6add633d5dc87/1530128687769/Alessandro+-+Joy+Sailing.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92e70a6add633d5dc87/1530128687769/Alessandro+-+Joy+Sailing.jpg</link>
+      <title>attachment-5b33e92e70a6add633d5dc87</title>
+      <wp:post_name>Alessandro-Joy-Sailing-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>46</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92e70a6add633d5dc87]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92e70a6add633d5dc87]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:46 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:46</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:46</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92eaa4a9928bb8eccc9/1530128687814/Gondola-+Rafaello+Ivano+-+Joy-Sailing.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92eaa4a9928bb8eccc9/1530128687814/Gondola-+Rafaello+Ivano+-+Joy-Sailing.jpg</link>
+      <title>attachment-5b33e92eaa4a9928bb8eccc9</title>
+      <wp:post_name>Gondola-Rafaello-Ivano-Joy-Sailing-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>47</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92eaa4a9928bb8eccc9]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92eaa4a9928bb8eccc9]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:46 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:46</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:46</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92f352f53f1fcce4e43/1530128690361/Gondola-3002+family+-joy+sailing.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92f352f53f1fcce4e43/1530128690361/Gondola-3002+family+-joy+sailing.JPG</link>
+      <title>attachment-5b33e92f352f53f1fcce4e43</title>
+      <wp:post_name>Gondola-3002-family-joy-sailing-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>48</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92f352f53f1fcce4e43]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92f352f53f1fcce4e43]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:47 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:47</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:47</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92f70a6add633d5dc93/1530128688060/Gondola-3189-ignus+holm.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92f70a6add633d5dc93/1530128688060/Gondola-3189-ignus+holm.jpg</link>
+      <title>attachment-5b33e92f70a6add633d5dc93</title>
+      <wp:post_name>Gondola-3189-ignus-holm-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>49</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92f70a6add633d5dc93]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92f70a6add633d5dc93]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:47 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:47</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:47</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92f03ce64393c5e2776/1530128688818/IMG_7584.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92f03ce64393c5e2776/1530128688818/IMG_7584.JPG</link>
+      <title>attachment-5b33e92f03ce64393c5e2776</title>
+      <wp:post_name>IMG-7584-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>50</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92f03ce64393c5e2776]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92f03ce64393c5e2776]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:47 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:47</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:47</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92f562fa73708faff75/1530128690322/IMG_7586.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e92f562fa73708faff75/1530128690322/IMG_7586.JPG</link>
+      <title>attachment-5b33e92f562fa73708faff75</title>
+      <wp:post_name>IMG-7586-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>51</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e92f562fa73708faff75]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e92f562fa73708faff75]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:47 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:47</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:47</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e93070a6add633d5dcc7/1530128689432/IMG_7588.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e93070a6add633d5dcc7/1530128689432/IMG_7588.JPG</link>
+      <title>attachment-5b33e93070a6add633d5dcc7</title>
+      <wp:post_name>IMG-7588-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>52</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e93070a6add633d5dcc7]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e93070a6add633d5dcc7]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:48 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:48</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:48</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e930562fa73708faffa6/1530128689392/IMG_7595.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e930562fa73708faffa6/1530128689392/IMG_7595.JPG</link>
+      <title>attachment-5b33e930562fa73708faffa6</title>
+      <wp:post_name>IMG-7595-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>53</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e930562fa73708faffa6]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e930562fa73708faffa6]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:48 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:48</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:48</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e9300e2e722d8b9a6812/1530128689998/IMG_7597.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e9300e2e722d8b9a6812/1530128689998/IMG_7597.JPG</link>
+      <title>attachment-5b33e9300e2e722d8b9a6812</title>
+      <wp:post_name>IMG-7597-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>54</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e9300e2e722d8b9a6812]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e9300e2e722d8b9a6812]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:48 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:48</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:48</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e9306d2a73082ee1096b/1530128689691/IMG_7598.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e9306d2a73082ee1096b/1530128689691/IMG_7598.JPG</link>
+      <title>attachment-5b33e9306d2a73082ee1096b</title>
+      <wp:post_name>IMG-7598-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>55</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e9306d2a73082ee1096b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e9306d2a73082ee1096b]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:48 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:48</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:48</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e9312b6a28a3e66d7e78/1530128690730/SEA+Tandem+screencap+%28jakob+and+greg+crossing%29+-+Simon+Atkins.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e9312b6a28a3e66d7e78/1530128690730/SEA+Tandem+screencap+%28jakob+and+greg+crossing%29+-+Simon+Atkins.jpg</link>
+      <title>attachment-5b33e9312b6a28a3e66d7e78</title>
+      <wp:post_name>SEA-Tandem-screencap-jakob-and-greg-crossing-Simon-Atkins-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>56</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e9312b6a28a3e66d7e78]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e9312b6a28a3e66d7e78]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:49 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:49</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:49</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e931562fa73708faffe4/1530128690291/IMG_7603.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e931562fa73708faffe4/1530128690291/IMG_7603.JPG</link>
+      <title>attachment-5b33e931562fa73708faffe4</title>
+      <wp:post_name>IMG-7603-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>57</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e931562fa73708faffe4]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e931562fa73708faffe4]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:49 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:49</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:49</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e932562fa73708fafff4/1530128690868/Strength.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e932562fa73708fafff4/1530128690868/Strength.jpg</link>
+      <title>attachment-5b33e932562fa73708fafff4</title>
+      <wp:post_name>Strength-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>58</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e932562fa73708fafff4]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e932562fa73708fafff4]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:50 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:50</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:50</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e93288251b02fd82220f/1530128691310/The+Dance+-+Mindy+Schauer.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e93288251b02fd82220f/1530128691310/The+Dance+-+Mindy+Schauer.jpg</link>
+      <title>attachment-5b33e93288251b02fd82220f</title>
+      <wp:post_name>The-Dance-Mindy-Schauer-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>59</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e93288251b02fd82220f]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e93288251b02fd82220f]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:50 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:50</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:50</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e932aa4a9928bb8ece2e/1530128691217/The+Man+-+Mindy+Schauer.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e932aa4a9928bb8ece2e/1530128691217/The+Man+-+Mindy+Schauer.jpg</link>
+      <title>attachment-5b33e932aa4a9928bb8ece2e</title>
+      <wp:post_name>The-Man-Mindy-Schauer-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>60</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e932aa4a9928bb8ece2e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e932aa4a9928bb8ece2e]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:50 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:50</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:50</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e932352f53f1fcce4f55/1530128691524/Tim+%26+Richie.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e932352f53f1fcce4f55/1530128691524/Tim+%26+Richie.JPG</link>
+      <title>attachment-5b33e932352f53f1fcce4f55</title>
+      <wp:post_name>Tim-Richie-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>61</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e932352f53f1fcce4f55]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e932352f53f1fcce4f55]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:50 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:50</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:50</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e9328a922d4fddc675e2/1530128693078/The+Photo+-+Mindy+Schauer.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b338988aa4a99d721df953f/5b33e9328a922d4fddc675e2/1530128693078/The+Photo+-+Mindy+Schauer.png</link>
+      <title>attachment-5b33e9328a922d4fddc675e2</title>
+      <wp:post_name>The-Photo-Mindy-Schauer-png</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>62</wp:post_id>
+      <wp:post_parent>29</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b33e9328a922d4fddc675e2]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b33e9328a922d4fddc675e2]]></excerpt:encoded>
+      <pubDate>Wed, 27 Jun 2018 19:44:50 +0000</pubDate>
+      <wp:post_date>2018-06-27 19:44:50</wp:post_date>
+      <wp:post_date_gmt>2018-06-27 19:44:50</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <title>2016</title>
+      <link>/2016</link>
+      <pubDate>Fri, 29 Jun 2018 19:19:12 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862788251b448480e4f3/1530299944345/DSC_0130+%282%29.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862770a6ad2d35ca965d/1530299944176/DSC_0319.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862703ce643c553d9586/1530299945171/DSC_0336.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b368627562fa74b0f4a9d36/1530299945276/DSC_0337.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b368628562fa74b0f4a9d3d/1530299945567/DSC_0338+%281%29.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b3686282b6a28f7a5fba269/1530299945613/DSC_0338.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b3686286d2a73fe6ff489f9/1530299945694/DSC_0339+%281%29.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b368628562fa74b0f4a9d4d/1530299945861/DSC_0339+%282%29.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b3686281ae6cf3d444d265b/1530299946013/DSC_0339.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862988251b448480e526/1530299946224/DSC_0340.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862903ce643c553d9673/1530299946389/DSC_0341+%281%29.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b3686292b6a28f7a5fba287/1530299946615/DSC_0341.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862903ce643c553d9679/1530299946966/DSC_0343.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862a1ae6cf3d444d2737/1530299947802/DSC_0348.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862a88251b448480e626/1530299948304/DSC_0351.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862b352f535111daa471/1530299948695/DSC_0589.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862b03ce643c553d968d/1530299948596/DSC_0592.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862c352f535111daa480/1530299949230/DSC_0593.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862c03ce643c553d96a4/1530299949328/DSC_0594.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862c0e2e721f9c9b55f2/1530299949529/DSC_0598.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862c352f535111daa54c/1530299949639/Ruffino+sprint.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862d352f535111daa554/1530299950235/Sonnen+-+GondolaNationals2016_RFS5281.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862d03ce643c553d96b3/1530299952110/Sonnen+-+GondolaNationals2016_RFS5287.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862d0e2e721f9c9b56f2/1530299951100/Sonnen+-+GondolaNationals2016_RFS5292.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862e8a922d77bea9d0c6/1530299951745/Sonnen+-+GondolaNationals2016_RFS5309.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862e562fa74b0f4a9e94/1530299952254/Sonnen+-+GondolaNationals2016_RFS5330.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862e03ce643c553d9796/1530299951738/Sonnen+-+GondolaNationals2016_RFS5328.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862f352f535111daa579/1530299952421/Sonnen+-+GondolaNationals2016_RFS5467.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862f1ae6cf3d444d2863/1530299952283/Sonnen+-+GondolaNationals2016_RFS5333.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862f03ce643c553d97b3/1530299952913/Sonnen+-+GondolaNationals2016_RFS5490.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862f88251b448480e77e/1530299953013/Sonnen+-+GondolaNationals2016_RFS5493.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b3686306d2a73fe6ff48c23/1530299954214/Sonnen+-+GondolaNationals2016_RFS5523+%281%29.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36863003ce643c553d97c0/1530299953492/Sonnen+-+GondolaNationals2016_RFS5523.jpg" /></div>]]></content:encoded>
+      <wp:post_name>2016</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>63</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862788251b448480e4f3/1530299944345/DSC_0130+%282%29.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862788251b448480e4f3/1530299944345/DSC_0130+%282%29.JPG</link>
+      <title>attachment-5b36862788251b448480e4f3</title>
+      <wp:post_name>DSC-0130-2-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>64</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862788251b448480e4f3]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862788251b448480e4f3]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:03 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:03</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:03</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862770a6ad2d35ca965d/1530299944176/DSC_0319.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862770a6ad2d35ca965d/1530299944176/DSC_0319.JPG</link>
+      <title>attachment-5b36862770a6ad2d35ca965d</title>
+      <wp:post_name>DSC-0319-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>65</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862770a6ad2d35ca965d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862770a6ad2d35ca965d]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:03 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:03</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:03</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862703ce643c553d9586/1530299945171/DSC_0336.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862703ce643c553d9586/1530299945171/DSC_0336.JPG</link>
+      <title>attachment-5b36862703ce643c553d9586</title>
+      <wp:post_name>DSC-0336-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>66</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862703ce643c553d9586]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862703ce643c553d9586]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:03 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:03</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:03</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b368627562fa74b0f4a9d36/1530299945276/DSC_0337.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b368627562fa74b0f4a9d36/1530299945276/DSC_0337.JPG</link>
+      <title>attachment-5b368627562fa74b0f4a9d36</title>
+      <wp:post_name>DSC-0337-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>67</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368627562fa74b0f4a9d36]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368627562fa74b0f4a9d36]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:03 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:03</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:03</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b368628562fa74b0f4a9d3d/1530299945567/DSC_0338+%281%29.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b368628562fa74b0f4a9d3d/1530299945567/DSC_0338+%281%29.JPG</link>
+      <title>attachment-5b368628562fa74b0f4a9d3d</title>
+      <wp:post_name>DSC-0338-1-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>68</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368628562fa74b0f4a9d3d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368628562fa74b0f4a9d3d]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:04 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:04</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:04</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b3686282b6a28f7a5fba269/1530299945613/DSC_0338.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b3686282b6a28f7a5fba269/1530299945613/DSC_0338.JPG</link>
+      <title>attachment-5b3686282b6a28f7a5fba269</title>
+      <wp:post_name>DSC-0338-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>69</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b3686282b6a28f7a5fba269]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b3686282b6a28f7a5fba269]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:04 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:04</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:04</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b3686286d2a73fe6ff489f9/1530299945694/DSC_0339+%281%29.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b3686286d2a73fe6ff489f9/1530299945694/DSC_0339+%281%29.JPG</link>
+      <title>attachment-5b3686286d2a73fe6ff489f9</title>
+      <wp:post_name>DSC-0339-1-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>70</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b3686286d2a73fe6ff489f9]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b3686286d2a73fe6ff489f9]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:04 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:04</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:04</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b368628562fa74b0f4a9d4d/1530299945861/DSC_0339+%282%29.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b368628562fa74b0f4a9d4d/1530299945861/DSC_0339+%282%29.JPG</link>
+      <title>attachment-5b368628562fa74b0f4a9d4d</title>
+      <wp:post_name>DSC-0339-2-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>71</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368628562fa74b0f4a9d4d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368628562fa74b0f4a9d4d]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:04 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:04</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:04</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b3686281ae6cf3d444d265b/1530299946013/DSC_0339.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b3686281ae6cf3d444d265b/1530299946013/DSC_0339.JPG</link>
+      <title>attachment-5b3686281ae6cf3d444d265b</title>
+      <wp:post_name>DSC-0339-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>72</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b3686281ae6cf3d444d265b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b3686281ae6cf3d444d265b]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:04 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:04</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:04</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862988251b448480e526/1530299946224/DSC_0340.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862988251b448480e526/1530299946224/DSC_0340.JPG</link>
+      <title>attachment-5b36862988251b448480e526</title>
+      <wp:post_name>DSC-0340-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>73</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862988251b448480e526]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862988251b448480e526]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:05 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:05</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:05</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862903ce643c553d9673/1530299946389/DSC_0341+%281%29.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862903ce643c553d9673/1530299946389/DSC_0341+%281%29.JPG</link>
+      <title>attachment-5b36862903ce643c553d9673</title>
+      <wp:post_name>DSC-0341-1-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>74</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862903ce643c553d9673]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862903ce643c553d9673]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:05 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:05</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:05</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b3686292b6a28f7a5fba287/1530299946615/DSC_0341.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b3686292b6a28f7a5fba287/1530299946615/DSC_0341.JPG</link>
+      <title>attachment-5b3686292b6a28f7a5fba287</title>
+      <wp:post_name>DSC-0341-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>75</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b3686292b6a28f7a5fba287]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b3686292b6a28f7a5fba287]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:05 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:05</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:05</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862903ce643c553d9679/1530299946966/DSC_0343.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862903ce643c553d9679/1530299946966/DSC_0343.JPG</link>
+      <title>attachment-5b36862903ce643c553d9679</title>
+      <wp:post_name>DSC-0343-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>76</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862903ce643c553d9679]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862903ce643c553d9679]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:05 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:05</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:05</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862a1ae6cf3d444d2737/1530299947802/DSC_0348.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862a1ae6cf3d444d2737/1530299947802/DSC_0348.JPG</link>
+      <title>attachment-5b36862a1ae6cf3d444d2737</title>
+      <wp:post_name>DSC-0348-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>77</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862a1ae6cf3d444d2737]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862a1ae6cf3d444d2737]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:06 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:06</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:06</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862a88251b448480e626/1530299948304/DSC_0351.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862a88251b448480e626/1530299948304/DSC_0351.JPG</link>
+      <title>attachment-5b36862a88251b448480e626</title>
+      <wp:post_name>DSC-0351-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>78</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862a88251b448480e626]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862a88251b448480e626]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:06 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:06</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:06</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862b352f535111daa471/1530299948695/DSC_0589.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862b352f535111daa471/1530299948695/DSC_0589.JPG</link>
+      <title>attachment-5b36862b352f535111daa471</title>
+      <wp:post_name>DSC-0589-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>79</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862b352f535111daa471]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862b352f535111daa471]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:07 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:07</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:07</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862b03ce643c553d968d/1530299948596/DSC_0592.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862b03ce643c553d968d/1530299948596/DSC_0592.JPG</link>
+      <title>attachment-5b36862b03ce643c553d968d</title>
+      <wp:post_name>DSC-0592-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>80</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862b03ce643c553d968d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862b03ce643c553d968d]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:07 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:07</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:07</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862c352f535111daa480/1530299949230/DSC_0593.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862c352f535111daa480/1530299949230/DSC_0593.JPG</link>
+      <title>attachment-5b36862c352f535111daa480</title>
+      <wp:post_name>DSC-0593-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>81</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862c352f535111daa480]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862c352f535111daa480]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:08 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:08</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:08</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862c03ce643c553d96a4/1530299949328/DSC_0594.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862c03ce643c553d96a4/1530299949328/DSC_0594.JPG</link>
+      <title>attachment-5b36862c03ce643c553d96a4</title>
+      <wp:post_name>DSC-0594-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>82</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862c03ce643c553d96a4]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862c03ce643c553d96a4]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:08 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:08</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:08</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862c0e2e721f9c9b55f2/1530299949529/DSC_0598.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862c0e2e721f9c9b55f2/1530299949529/DSC_0598.JPG</link>
+      <title>attachment-5b36862c0e2e721f9c9b55f2</title>
+      <wp:post_name>DSC-0598-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>83</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862c0e2e721f9c9b55f2]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862c0e2e721f9c9b55f2]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:08 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:08</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:08</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862c352f535111daa54c/1530299949639/Ruffino+sprint.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862c352f535111daa54c/1530299949639/Ruffino+sprint.jpg</link>
+      <title>attachment-5b36862c352f535111daa54c</title>
+      <wp:post_name>Ruffino-sprint-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>84</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862c352f535111daa54c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862c352f535111daa54c]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:08 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:08</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:08</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862d352f535111daa554/1530299950235/Sonnen+-+GondolaNationals2016_RFS5281.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862d352f535111daa554/1530299950235/Sonnen+-+GondolaNationals2016_RFS5281.jpg</link>
+      <title>attachment-5b36862d352f535111daa554</title>
+      <wp:post_name>Sonnen-GondolaNationals2016-RFS5281-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>85</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862d352f535111daa554]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862d352f535111daa554]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:09 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:09</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:09</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862d03ce643c553d96b3/1530299952110/Sonnen+-+GondolaNationals2016_RFS5287.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862d03ce643c553d96b3/1530299952110/Sonnen+-+GondolaNationals2016_RFS5287.jpg</link>
+      <title>attachment-5b36862d03ce643c553d96b3</title>
+      <wp:post_name>Sonnen-GondolaNationals2016-RFS5287-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>86</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862d03ce643c553d96b3]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862d03ce643c553d96b3]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:09 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:09</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:09</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862d0e2e721f9c9b56f2/1530299951100/Sonnen+-+GondolaNationals2016_RFS5292.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862d0e2e721f9c9b56f2/1530299951100/Sonnen+-+GondolaNationals2016_RFS5292.jpg</link>
+      <title>attachment-5b36862d0e2e721f9c9b56f2</title>
+      <wp:post_name>Sonnen-GondolaNationals2016-RFS5292-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>87</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862d0e2e721f9c9b56f2]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862d0e2e721f9c9b56f2]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:09 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:09</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:09</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862e8a922d77bea9d0c6/1530299951745/Sonnen+-+GondolaNationals2016_RFS5309.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862e8a922d77bea9d0c6/1530299951745/Sonnen+-+GondolaNationals2016_RFS5309.jpg</link>
+      <title>attachment-5b36862e8a922d77bea9d0c6</title>
+      <wp:post_name>Sonnen-GondolaNationals2016-RFS5309-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>88</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862e8a922d77bea9d0c6]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862e8a922d77bea9d0c6]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:10 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:10</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:10</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862e562fa74b0f4a9e94/1530299952254/Sonnen+-+GondolaNationals2016_RFS5330.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862e562fa74b0f4a9e94/1530299952254/Sonnen+-+GondolaNationals2016_RFS5330.jpg</link>
+      <title>attachment-5b36862e562fa74b0f4a9e94</title>
+      <wp:post_name>Sonnen-GondolaNationals2016-RFS5330-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>89</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862e562fa74b0f4a9e94]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862e562fa74b0f4a9e94]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:10 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:10</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:10</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862e03ce643c553d9796/1530299951738/Sonnen+-+GondolaNationals2016_RFS5328.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862e03ce643c553d9796/1530299951738/Sonnen+-+GondolaNationals2016_RFS5328.jpg</link>
+      <title>attachment-5b36862e03ce643c553d9796</title>
+      <wp:post_name>Sonnen-GondolaNationals2016-RFS5328-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>90</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862e03ce643c553d9796]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862e03ce643c553d9796]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:10 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:10</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:10</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862f352f535111daa579/1530299952421/Sonnen+-+GondolaNationals2016_RFS5467.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862f352f535111daa579/1530299952421/Sonnen+-+GondolaNationals2016_RFS5467.jpg</link>
+      <title>attachment-5b36862f352f535111daa579</title>
+      <wp:post_name>Sonnen-GondolaNationals2016-RFS5467-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>91</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862f352f535111daa579]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862f352f535111daa579]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:11 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:11</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:11</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862f1ae6cf3d444d2863/1530299952283/Sonnen+-+GondolaNationals2016_RFS5333.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862f1ae6cf3d444d2863/1530299952283/Sonnen+-+GondolaNationals2016_RFS5333.jpg</link>
+      <title>attachment-5b36862f1ae6cf3d444d2863</title>
+      <wp:post_name>Sonnen-GondolaNationals2016-RFS5333-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>92</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862f1ae6cf3d444d2863]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862f1ae6cf3d444d2863]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:11 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:11</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:11</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862f03ce643c553d97b3/1530299952913/Sonnen+-+GondolaNationals2016_RFS5490.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862f03ce643c553d97b3/1530299952913/Sonnen+-+GondolaNationals2016_RFS5490.jpg</link>
+      <title>attachment-5b36862f03ce643c553d97b3</title>
+      <wp:post_name>Sonnen-GondolaNationals2016-RFS5490-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>93</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862f03ce643c553d97b3]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862f03ce643c553d97b3]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:11 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:11</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:11</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862f88251b448480e77e/1530299953013/Sonnen+-+GondolaNationals2016_RFS5493.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36862f88251b448480e77e/1530299953013/Sonnen+-+GondolaNationals2016_RFS5493.jpg</link>
+      <title>attachment-5b36862f88251b448480e77e</title>
+      <wp:post_name>Sonnen-GondolaNationals2016-RFS5493-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>94</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36862f88251b448480e77e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36862f88251b448480e77e]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:11 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:11</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:11</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b3686306d2a73fe6ff48c23/1530299954214/Sonnen+-+GondolaNationals2016_RFS5523+%281%29.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b3686306d2a73fe6ff48c23/1530299954214/Sonnen+-+GondolaNationals2016_RFS5523+%281%29.jpg</link>
+      <title>attachment-5b3686306d2a73fe6ff48c23</title>
+      <wp:post_name>Sonnen-GondolaNationals2016-RFS5523-1-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>95</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b3686306d2a73fe6ff48c23]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b3686306d2a73fe6ff48c23]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:12 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:12</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:12</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36863003ce643c553d97c0/1530299953492/Sonnen+-+GondolaNationals2016_RFS5523.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389991ae6cfcc9dc53ea8/5b36863003ce643c553d97c0/1530299953492/Sonnen+-+GondolaNationals2016_RFS5523.jpg</link>
+      <title>attachment-5b36863003ce643c553d97c0</title>
+      <wp:post_name>Sonnen-GondolaNationals2016-RFS5523-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>96</wp:post_id>
+      <wp:post_parent>63</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b36863003ce643c553d97c0]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b36863003ce643c553d97c0]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:19:12 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:19:12</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:19:12</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <title>2017</title>
+      <link>/2017</link>
+      <pubDate>Fri, 29 Jun 2018 19:43:50 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b3689fef950b77f022015db/1530300930594/_DSC1049.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b3689feaa4a997500570091/1530300933890/_DSC0948.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b3689fff950b77f022015eb/1530300931836/_DSC1099.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a00562fa77e08e4ab72/1530300930662/IMG_0046_preview_Tony_Stori.jpeg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a02f950b77f02201699/1530300932085/IMG_0052_Tony_Stori.jpeg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a026d2a733b00500de6/1530300931664/IMG_0134_preview_Tony_Stori.jpeg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a02575d1fc3850f4cd0/1530300931828/IMG_0156_Tony_Stori.jpeg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0203ce647038ebdff2/1530300931781/IMG_0406_preview_Tony_Stori.jpeg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a02f950b77f022016b3/1530300932055/IMG_0454_preview_Tony_Stori.jpeg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a03562fa77e08e4aba4/1530300932306/IMG_2113.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0388251b448481c96e/1530300932303/IMG_2116.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a030e2e7252db419a1d/1530300933415/IMG_2119.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a031ae6cf7111dc67f6/1530300934560/IMG_2120.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0370a6ad2d35cb78d0/1530300933016/IMG_2122.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a03758d46192b24876c/1530300934604/IMG_2124.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0403ce647038ebe010/1530300935090/IMG_2126.JPG" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0488251b448481c98b/1530300934160/IMG_9838_preview.jpeg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a058a922daaeb3cfa5b/1530300935676/IMG_9840_preview.jpeg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a052b6a28f7a5fc87d4/1530300937299/IMG_9841_preview.jpeg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a06562fa77e08e4aca1/1530300935558/IMG_9859_Tony_Stori.jpeg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0688251b448481c99e/1530300935832/IMG_9861_preview_Tony_Stori.jpeg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a068a922daaeb3cfa6b/1530300936131/IMG_9913_preview_Tony_Stori.jpeg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a061ae6cf7111dc68c7/1530300936537/IMG_9951_preview_Tony_Stori.jpeg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a07758d46192b24883d/1530300936384/Sofia_Giulana_John_Kerschbaum.jpeg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a078a922daaeb3cfa70/1530300937902/USGN+2017-1323-Steve_Atkin.jpg" /><img src="http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368b80758d46192b24d248/1530301418072//img.jpg" /></div>]]></content:encoded>
+      <wp:post_name>2017</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>97</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b3689fef950b77f022015db/1530300930594/_DSC1049.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b3689fef950b77f022015db/1530300930594/_DSC1049.jpg</link>
+      <title>attachment-5b3689fef950b77f022015db</title>
+      <wp:post_name>-DSC1049-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>98</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b3689fef950b77f022015db]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b3689fef950b77f022015db]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:26 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:26</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:26</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b3689feaa4a997500570091/1530300933890/_DSC0948.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b3689feaa4a997500570091/1530300933890/_DSC0948.jpg</link>
+      <title>attachment-5b3689feaa4a997500570091</title>
+      <wp:post_name>-DSC0948-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>99</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b3689feaa4a997500570091]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b3689feaa4a997500570091]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:26 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:26</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:26</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b3689fff950b77f022015eb/1530300931836/_DSC1099.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b3689fff950b77f022015eb/1530300931836/_DSC1099.jpg</link>
+      <title>attachment-5b3689fff950b77f022015eb</title>
+      <wp:post_name>-DSC1099-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>100</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b3689fff950b77f022015eb]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b3689fff950b77f022015eb]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:27 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:27</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:27</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a00562fa77e08e4ab72/1530300930662/IMG_0046_preview_Tony_Stori.jpeg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a00562fa77e08e4ab72/1530300930662/IMG_0046_preview_Tony_Stori.jpeg</link>
+      <title>attachment-5b368a00562fa77e08e4ab72</title>
+      <wp:post_name>IMG-0046-preview-Tony-Stori-jpeg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>101</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a00562fa77e08e4ab72]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a00562fa77e08e4ab72]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:28 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:28</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:28</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a02f950b77f02201699/1530300932085/IMG_0052_Tony_Stori.jpeg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a02f950b77f02201699/1530300932085/IMG_0052_Tony_Stori.jpeg</link>
+      <title>attachment-5b368a02f950b77f02201699</title>
+      <wp:post_name>IMG-0052-Tony-Stori-jpeg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>102</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a02f950b77f02201699]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a02f950b77f02201699]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:30 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:30</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:30</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a026d2a733b00500de6/1530300931664/IMG_0134_preview_Tony_Stori.jpeg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a026d2a733b00500de6/1530300931664/IMG_0134_preview_Tony_Stori.jpeg</link>
+      <title>attachment-5b368a026d2a733b00500de6</title>
+      <wp:post_name>IMG-0134-preview-Tony-Stori-jpeg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>103</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a026d2a733b00500de6]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a026d2a733b00500de6]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:30 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:30</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:30</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a02575d1fc3850f4cd0/1530300931828/IMG_0156_Tony_Stori.jpeg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a02575d1fc3850f4cd0/1530300931828/IMG_0156_Tony_Stori.jpeg</link>
+      <title>attachment-5b368a02575d1fc3850f4cd0</title>
+      <wp:post_name>IMG-0156-Tony-Stori-jpeg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>104</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a02575d1fc3850f4cd0]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a02575d1fc3850f4cd0]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:30 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:30</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:30</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0203ce647038ebdff2/1530300931781/IMG_0406_preview_Tony_Stori.jpeg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0203ce647038ebdff2/1530300931781/IMG_0406_preview_Tony_Stori.jpeg</link>
+      <title>attachment-5b368a0203ce647038ebdff2</title>
+      <wp:post_name>IMG-0406-preview-Tony-Stori-jpeg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>105</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a0203ce647038ebdff2]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a0203ce647038ebdff2]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:30 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:30</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:30</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a02f950b77f022016b3/1530300932055/IMG_0454_preview_Tony_Stori.jpeg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a02f950b77f022016b3/1530300932055/IMG_0454_preview_Tony_Stori.jpeg</link>
+      <title>attachment-5b368a02f950b77f022016b3</title>
+      <wp:post_name>IMG-0454-preview-Tony-Stori-jpeg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>106</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a02f950b77f022016b3]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a02f950b77f022016b3]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:30 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:30</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:30</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a03562fa77e08e4aba4/1530300932306/IMG_2113.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a03562fa77e08e4aba4/1530300932306/IMG_2113.JPG</link>
+      <title>attachment-5b368a03562fa77e08e4aba4</title>
+      <wp:post_name>IMG-2113-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>107</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a03562fa77e08e4aba4]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a03562fa77e08e4aba4]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:31 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:31</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:31</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0388251b448481c96e/1530300932303/IMG_2116.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0388251b448481c96e/1530300932303/IMG_2116.JPG</link>
+      <title>attachment-5b368a0388251b448481c96e</title>
+      <wp:post_name>IMG-2116-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>108</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a0388251b448481c96e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a0388251b448481c96e]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:31 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:31</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:31</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a030e2e7252db419a1d/1530300933415/IMG_2119.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a030e2e7252db419a1d/1530300933415/IMG_2119.JPG</link>
+      <title>attachment-5b368a030e2e7252db419a1d</title>
+      <wp:post_name>IMG-2119-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>109</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a030e2e7252db419a1d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a030e2e7252db419a1d]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:31 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:31</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:31</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a031ae6cf7111dc67f6/1530300934560/IMG_2120.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a031ae6cf7111dc67f6/1530300934560/IMG_2120.JPG</link>
+      <title>attachment-5b368a031ae6cf7111dc67f6</title>
+      <wp:post_name>IMG-2120-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>110</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a031ae6cf7111dc67f6]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a031ae6cf7111dc67f6]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:31 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:31</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:31</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0370a6ad2d35cb78d0/1530300933016/IMG_2122.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0370a6ad2d35cb78d0/1530300933016/IMG_2122.JPG</link>
+      <title>attachment-5b368a0370a6ad2d35cb78d0</title>
+      <wp:post_name>IMG-2122-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>111</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a0370a6ad2d35cb78d0]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a0370a6ad2d35cb78d0]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:31 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:31</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:31</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a03758d46192b24876c/1530300934604/IMG_2124.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a03758d46192b24876c/1530300934604/IMG_2124.JPG</link>
+      <title>attachment-5b368a03758d46192b24876c</title>
+      <wp:post_name>IMG-2124-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>112</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a03758d46192b24876c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a03758d46192b24876c]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:31 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:31</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:31</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0403ce647038ebe010/1530300935090/IMG_2126.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0403ce647038ebe010/1530300935090/IMG_2126.JPG</link>
+      <title>attachment-5b368a0403ce647038ebe010</title>
+      <wp:post_name>IMG-2126-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>113</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a0403ce647038ebe010]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a0403ce647038ebe010]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:32 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:32</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:32</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0488251b448481c98b/1530300934160/IMG_9838_preview.jpeg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0488251b448481c98b/1530300934160/IMG_9838_preview.jpeg</link>
+      <title>attachment-5b368a0488251b448481c98b</title>
+      <wp:post_name>IMG-9838-preview-jpeg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>114</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a0488251b448481c98b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a0488251b448481c98b]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:32 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:32</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:32</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a058a922daaeb3cfa5b/1530300935676/IMG_9840_preview.jpeg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a058a922daaeb3cfa5b/1530300935676/IMG_9840_preview.jpeg</link>
+      <title>attachment-5b368a058a922daaeb3cfa5b</title>
+      <wp:post_name>IMG-9840-preview-jpeg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>115</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a058a922daaeb3cfa5b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a058a922daaeb3cfa5b]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:33 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:33</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:33</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a052b6a28f7a5fc87d4/1530300937299/IMG_9841_preview.jpeg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a052b6a28f7a5fc87d4/1530300937299/IMG_9841_preview.jpeg</link>
+      <title>attachment-5b368a052b6a28f7a5fc87d4</title>
+      <wp:post_name>IMG-9841-preview-jpeg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>116</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a052b6a28f7a5fc87d4]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a052b6a28f7a5fc87d4]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:33 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:33</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:33</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a06562fa77e08e4aca1/1530300935558/IMG_9859_Tony_Stori.jpeg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a06562fa77e08e4aca1/1530300935558/IMG_9859_Tony_Stori.jpeg</link>
+      <title>attachment-5b368a06562fa77e08e4aca1</title>
+      <wp:post_name>IMG-9859-Tony-Stori-jpeg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>117</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a06562fa77e08e4aca1]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a06562fa77e08e4aca1]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:34 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:34</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:34</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0688251b448481c99e/1530300935832/IMG_9861_preview_Tony_Stori.jpeg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a0688251b448481c99e/1530300935832/IMG_9861_preview_Tony_Stori.jpeg</link>
+      <title>attachment-5b368a0688251b448481c99e</title>
+      <wp:post_name>IMG-9861-preview-Tony-Stori-jpeg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>118</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a0688251b448481c99e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a0688251b448481c99e]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:34 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:34</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:34</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a068a922daaeb3cfa6b/1530300936131/IMG_9913_preview_Tony_Stori.jpeg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a068a922daaeb3cfa6b/1530300936131/IMG_9913_preview_Tony_Stori.jpeg</link>
+      <title>attachment-5b368a068a922daaeb3cfa6b</title>
+      <wp:post_name>IMG-9913-preview-Tony-Stori-jpeg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>119</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a068a922daaeb3cfa6b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a068a922daaeb3cfa6b]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:34 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:34</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:34</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a061ae6cf7111dc68c7/1530300936537/IMG_9951_preview_Tony_Stori.jpeg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a061ae6cf7111dc68c7/1530300936537/IMG_9951_preview_Tony_Stori.jpeg</link>
+      <title>attachment-5b368a061ae6cf7111dc68c7</title>
+      <wp:post_name>IMG-9951-preview-Tony-Stori-jpeg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>120</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a061ae6cf7111dc68c7]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a061ae6cf7111dc68c7]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:34 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:34</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:34</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a07758d46192b24883d/1530300936384/Sofia_Giulana_John_Kerschbaum.jpeg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a07758d46192b24883d/1530300936384/Sofia_Giulana_John_Kerschbaum.jpeg</link>
+      <title>attachment-5b368a07758d46192b24883d</title>
+      <wp:post_name>Sofia-Giulana-John-Kerschbaum-jpeg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>121</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a07758d46192b24883d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a07758d46192b24883d]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:35 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:35</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:35</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a078a922daaeb3cfa70/1530300937902/USGN+2017-1323-Steve_Atkin.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368a078a922daaeb3cfa70/1530300937902/USGN+2017-1323-Steve_Atkin.jpg</link>
+      <title>attachment-5b368a078a922daaeb3cfa70</title>
+      <wp:post_name>USGN-2017-1323-Steve-Atkin-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>122</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368a078a922daaeb3cfa70]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368a078a922daaeb3cfa70]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:35:35 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:35:35</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:35:35</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368b80758d46192b24d248/1530301418072//img.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5b314534d274cbc839299307/5b3389a7575d1f26aa219998/5b368b80758d46192b24d248/1530301418072//img.jpg</link>
+      <title>attachment-5b368b80758d46192b24d248</title>
+      <wp:post_name>5b368b80758d46192b24d248</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>123</wp:post_id>
+      <wp:post_parent>97</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5b368b80758d46192b24d248]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5b368b80758d46192b24d248]]></excerpt:encoded>
+      <pubDate>Fri, 29 Jun 2018 19:43:37 +0000</pubDate>
+      <wp:post_date>2018-06-29 19:43:37</wp:post_date>
+      <wp:post_date_gmt>2018-06-29 19:43:37</wp:post_date_gmt>
+      <dc:creator>eyoung02@wildcats.jwu.edu</dc:creator>
+    </item>
+    <item>
+      <link>/2015-1</link>
+      <title>2015</title>
+      <pubDate>Wed, 11 Jul 2018 18:55:50 +0000</pubDate>
+      <content:encoded><![CDATA[<h2>2015 US NATIONAL GONDOLA RESULTS</h2><p>1st, 2nd, and 3rd Placements for single and tandem, distance, and sprint, 4-person distance, tandem distance (Pupparin) and Single Sprint -Sandolo (Vallesana).&nbsp;<br />Hosted by <a target="_blank" href="http://www.newportbeach.gondola.com/">Gondola Adventures, Inc.</a> of Newport Beach, CA.&nbsp;</p><h1><strong>SPRINT RACES</strong></h1><hr /><h3><strong>SINGLE</strong></h3><p><strong>1st Place:</strong><br />Eric "Enrico" Bender<em> - Coronando, CA</em></p><p><br /><strong>2nd Place:</strong><br />Ben Landis <em>-Long Beach, CA</em></p><p><br /><strong>3rd Place:</strong><br />Jakob Easton -<em>Newport Beach, CA</em></p>
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1530307508930-WC0JKCV0RMRUDAMSWL5R/ke17ZwdGBToddI8pDm48kM-AXpgTiqEnmxnogr-EJ9FZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHj-QaKHrggBki9xz3gPzBfxhONkdtjFrLLKMprhoNppIglugK8k0eyNDzuoDxKbCQ/009.JPG?format=original" alt=""/>
+  
+
+<h3><strong>Tandem</strong></h3><p><strong>1st Place:</strong><br />Jeff Craver &amp; Chris Gonzales<strong> </strong><em>- Long Beach, CA</em></p><p><strong>2nd Place:</strong><br />Eric "Enrico" Bender &amp; Cole "Columbo" Hanson<em>&nbsp;- Coronando, CA</em></p><p><strong>3rd Place:</strong><br />Tim "Bepi" Reinard &amp; Richard "Ricardo" Corbaley<em> - Huntington Beach, CA</em></p>&nbsp;<h3><strong>SIngle sandolo "<em>Vallesana</em>"</strong></h3><p><strong>1st Place:</strong>&nbsp;<br />Tim "Bepi" Reinard -<em>&nbsp;Huntington Beach, CA</em></p><p><strong>2nd Place:</strong><br />Sean Jamieson -<em>&nbsp;Coronado, CA</em></p><p><strong>3rd Place:</strong><br />Eric "Enrico" Bender -<em> Coronado, CA</em></p>
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1530308458561-XIV0AWX8W410F7G1IFDC/ke17ZwdGBToddI8pDm48kF0kpatCs0FOYw3vahONqCRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwIVMluBXZMLorQ5T5U-oBeoubzpFbzh73Uw4Vj4loAy94t_6AhUaMhdDnjRNOJlEA/IMG_7597.JPG?format=original" alt=""/>
+  
+
+&nbsp;<h1 class="text-align-right"><strong>DISTANCE RACES</strong></h1><hr /><h3><strong>single</strong></h3><p><strong>1st Place:</strong><br />Richard "Ricardo" Corbaley <em>- Huntington Beach, CA</em></p><p><strong>2nd Place:</strong><br />Michael Ruffino -&nbsp;<em>Newport Beach, CA</em></p><p><strong>3rd Place:</strong><br />Ben Landis - <em>Long Beach, CA</em></p><h3><strong>TANDEM</strong></h3><p><strong>1st Place:&nbsp;</strong><br />Tim "Bepi" Reinard &amp; Richard "Ricardo" Corbaley<em> - Huntington Beach, CA</em></p><p><strong>2nd Place:</strong><br />"Gondola Greg" Mohr &amp; Jakob Easton <em>- Newport Beach, CA</em></p><p><strong>3rd Place:</strong><br />Jeff Craver &amp; Chris Gonzales <em>- Long Beach, CA</em></p>&nbsp;<div class="image-gallery-wrapper">
+
+  
+   <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1531333453139-OBKLUX178L25RU4YWAUN/ke17ZwdGBToddI8pDm48kDAv91l_EVpAtt3T82Wm1m9Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGRdKQdAvYPFeoNHcl0B9NbYhRtIalXltUl4wqyICqU51hQUjdct07RUVzezzWpvVo/IMG_7584.JPG?format=original" />
+  
+
+  
+   <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1531333462653-JJVQSI7NOCF0AQ4VYWSM/ke17ZwdGBToddI8pDm48kIq131q5-0nmY9Ka3dHzJrZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyLuydTzqnSUXMMHW3f5QrMG-AT5ppRCnxuLI39Xs_GyYOsKdhPIB_m02VFDCnnea4/023_01.JPG?format=original" />
+  
+
+  
+   <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1531333481203-WN1PE6V2KSF7ESNLCIIR/ke17ZwdGBToddI8pDm48kC6d4FBEExQhkBrccVd_uhNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFf9vs1M8vbuJAqmDKZqdg08h2Wh3RpMflSyxLcCS9GmYjbgrpQzS2D1wsvCYhefSE/Gondola-+Rafaello+Ivano+-+Joy-Sailing.jpg?format=original" />
+  
+
+</div>&nbsp;<h3><strong>Tandem</strong>&nbsp;<strong><em>"Pupparin"</em></strong></h3><p><strong>1st Place:&nbsp;</strong><br />Tim "Bepi" Reinard &amp; Richard "Ricardo" Corbaley<em> - Huntington Beach, CA</em></p><p><strong>2nd Place:</strong><br />"Gondola Greg" Mohr &amp; Simon Atkins <em>- Newport Beach, CA</em></p><p><strong>3rd Place:</strong><br />Matthew "Marcello" Haynes &amp; Alex "Alessandro" Haynes &nbsp;<em>- Providence, RI</em></p>
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1531334062262-44DCJILKHAR34JS4D0FI/ke17ZwdGBToddI8pDm48kIWpm9kiqCWEOeBJ8_9apCBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-sxqmoN8FmYbVVbtafwZBz_xOPGIIWAaH7guZgEpwYldA/pupparin.JPG?format=original" alt=""/>
+  
+
+<h3><strong>4 Person Distance</strong></h3><p><strong>1st Place:&nbsp;</strong><br />"Gondola Greg" Mohr, Jakob Easton, Kalev Pallares &amp; Simon Atkins<em>&nbsp;- Huntington Beach, CA</em></p><p><strong>2nd Place:</strong><br />Matthew "Marcello" Haynes, Timothy "Amadeo" Coffey, Gregory "Rafaello" Coffey, &amp; Alex "Alessandro" Haynes <em>- Providence, RI</em></p><p><strong>3rd Place:</strong><br />Sean Jamieson, Eric Bender, Cole Hanson, &amp; Jackie Molino <em>- Long Beach, CA</em></p>&nbsp;<p class="text-align-center">See other years' results; <a href="/2014">2014</a>, <a href="/2016-1">2016</a>, and<a href="/2017-1"> 2017</a>.</p><div class="sqs-block-button-container--center" data-animation-tier="2" data-alignment="center" data-button-size="medium">
+	<a href="/take-action" class="sqs-block-button-element--medium sqs-block-button-element" >Register for 2018!</a>
+</div>
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1531334922138-QID4T5V75IT9W1H05QMN/ke17ZwdGBToddI8pDm48kNoNeaySFOBv6XHFlOoyEyB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k9kZPbuygN4RSDPe_G5PO9Jrs_6zWt1DHSYb62_vjY7CjLQ1H8lzsgMkW3WDSo60g/rick-vos-18745-unsplash.jpg?format=original" alt=""/>]]></content:encoded>
+      <wp:post_name>2015-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>124</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/2016-1</link>
+      <title>2016</title>
+      <pubDate>Wed, 11 Jul 2018 18:57:36 +0000</pubDate>
+      <content:encoded><![CDATA[<p> </p><p class="text-align-center">See other years' results; <a href="/2014">2014</a>, <a href="/2015-1">2015</a>, and <a href="/2017-1">2017</a>.</p><div class="sqs-block-button-container--center" data-animation-tier="2" data-alignment="center" data-button-size="medium">
+	<a href="/take-action" class="sqs-block-button-element--medium sqs-block-button-element" >Register for 2018!</a>
+</div>]]></content:encoded>
+      <wp:post_name>2016-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>125</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/2017-1</link>
+      <title>2017</title>
+      <pubDate>Wed, 11 Jul 2018 20:57:58 +0000</pubDate>
+      <content:encoded><![CDATA[<h2>2017 US GONDOLA NATIONALS RESULTS</h2><p>1st, 2nd, and 3rd placements for the single and tandem races of 2017. Sprints, Distance, and Slalom Obstacle races took place as well as Master's Sandolo (Valesana), Tandem Pupparin, and the Four Person Distance.<br />Hosted by <a target="_blank" href="http://www.sunsetgondola.com/">Sunset Gondola</a>, of Huntington Harbour, CA.</p><h1>SPRINT RACES</h1>&nbsp;<hr />
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1531342064565-E8QGXT9PUC689IW0MWWY/ke17ZwdGBToddI8pDm48kEbipf4XuY5ThPFXqYUpM-RZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwZWU9DA9PsDveHwqyTXeX1xkrDcgG_mexIcGPZS_qufBXzA1DSat1S0lcM8vyrQYI/mariano+2.JPG?format=original" alt=""/>
+  
+
+<h3><strong>SINGLE</strong></h3><p><strong>1st Place:</strong><br />"Mariano" Richards<em>&nbsp;- Providence, RI</em></p><p><br /><strong>2nd Place:</strong><br />Hunter Mitchell <em>- Newport Beach, CA</em></p><p><br /><strong>3rd Place:</strong><br />Matthew Raus -&nbsp;<em>Newport Beach, CA</em></p>&nbsp;<h3><strong>Tandem</strong></h3><p><strong>1st Place:</strong><br />John Kerschbaum &amp; Michael Arnold<em>&nbsp;- Stillwater, MN</em></p><p><br /><strong>2nd Place:</strong><br />Matthew "Marcello" &amp; Alex "Alessandro" Haynes -&nbsp;<em>Providence, RI</em></p><p><br /><strong>3rd Place:</strong><br />Adam "Ivano" Alves &amp; "Mariano" Richards -&nbsp;<em>Providence, RI</em></p><h3><strong>MASTER SANDOLO "<em>Valesana"</em></strong></h3><p><strong>1st Place:</strong><br />Tim Reinard -&nbsp;<em>Huntington Beach, CA</em></p><p><br /><strong>2nd Place:</strong><br />"Gondola Greg" Mohr -&nbsp;<em>Newport Beach, CA</em></p><p><br /><br /><strong>3rd Place:</strong><br />John Kerschbaum -&nbsp;<em>Stillwater, MN</em></p>&nbsp;<h1>DISTANCE RACES</h1><hr /><h3><strong>SINGLE</strong></h3><p><strong>1st Place:</strong><br />Michael Angelo Ruffino -&nbsp;<em>Newport Beach, CA</em></p><p><br /><strong>2nd Place:</strong><br />"Mariano" Richards -&nbsp;<em>&nbsp;Providence, RI</em></p><p><br /><strong>3rd Place:</strong><br />"Marcello" Matthew Haynes -<em>&nbsp;Providence, RI</em></p>
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1531340251594-U65S8MAW6TVXFPIHXYMY/ke17ZwdGBToddI8pDm48kGaHcHG2c7OYjnQ9DTWZ-bhZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHYyWKMUrdQ4KUCYNrFPPNGfQ3fjo47VyZxFbxf3u116RRYW52HQvtc0flXb3V2Jtg/IMG_0406_preview_Tony_Stori.jpeg?format=original" alt=""/>
+  
+
+&nbsp;<h3><strong>TANDEM</strong></h3><p><strong>1st Place:</strong><br />Parker Harrison &amp; Michael Angelo Ruffino - <em>Newport Beach, CA</em></p><p><br /><strong>2nd Place:</strong><br />"Alessandro" Alex Haynes &amp; Marcello" Matthew Haynes -&nbsp;<em>&nbsp;Providence, RI</em></p><p><br /><strong>3rd Place:</strong><br />Adam "Ivano" Alves &amp; "Mariano" Richards -<em>&nbsp;Providence, RI</em></p><h3><strong>TANDEM PUPPARIN</strong></h3><p><strong>1st Place:</strong><br />Michael Angelo Ruffino &amp; Parker Harrison -&nbsp;<em>Newport Beach, CA</em></p><p><br /><strong>2nd Place:</strong><br />"Gondola Greg"&nbsp;Mohr &amp; Kalev Palleres -&nbsp;<em>Newport Beach, CA</em></p><p><br /><strong>3rd Place:</strong><br />"Marcello" Matthew Haynes - <em>Providence, RI</em> &amp; John Kerschbaum<em>&nbsp;- Stillwater, MN</em></p>&nbsp;
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1531341652186-QHDT97219GE4UI0AVK32/ke17ZwdGBToddI8pDm48kJxvWUG6oCbPeQ6HrH1oGOJZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHLoVzDGKCXwTuobhkCoZfJWWvL4dX0i3At0_kE9qRPm2YvTjdOxujrp4TE2LY0D4k/IMG_0134_preview_Tony_Stori.jpeg?format=original" alt=""/>
+  
+
+<h3><strong>4 Person Distance</strong></h3><p><strong>1st Place:</strong><br />Matthew Raus, Parker Harrison, Eddie Rivera, &amp; Michael Angelo Ruffino -&nbsp;<em>Newport Beach, CA</em></p><p><br /><strong>2nd Place:</strong><br />"Gondola Greg" Mohr, Kalev Pallares, Hunter Mitchell, &amp; Simon Atkins -&nbsp;<em>Newport Beach, CA</em></p><p><br /><strong>3rd Place:</strong><br />Tim "Bepi" Reinard, Parker Russell, Jack "D'Onde" Wilhem, &amp; "Brentino" Fahringer -&nbsp;<em>Huntington Beach, CA</em></p>&nbsp;
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1531340352443-13DY4Q962ZBMFUXBIE14/ke17ZwdGBToddI8pDm48kPLSHeZ5NDDJoW0mSIXdTDMUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dtWp84OB4G05-QDfgVnQwE6Lt9eVAwl_rnVVeGzeiVJiG6v6ULRah83RgHXAWD5lbQ/_DSC0948.jpg?format=original" alt=""/>
+  
+
+<h1>SLALOM OBSTACLE COURSE</h1><hr /><h3><strong>SINGLE</strong></h3><p><strong>1st Place:</strong><br />"Marcello" Matthew Haynes -<em>&nbsp;Providence, RI</em></p><p><br /><br /><strong>2nd Place:</strong><br />"Mariano" Richards -&nbsp;<em>&nbsp;Providence, RI</em></p><p><br /><strong>3rd Place:</strong><br />"Alessandro" Alex Haynes -&nbsp;<em>Providence, RI</em></p><h3><strong>TANDEM</strong></h3><p><strong>1st Place:</strong><br />"Marcello" Matthew &amp; "Alessandro" Alex Haynes -<em>&nbsp;Providence, RI</em></p><p><br /><strong>2nd Place:</strong><br />Adam "Ivano" Alves &amp; "Mariano" Richards -&nbsp;<em>Providence, RI</em></p><p><br /><strong>3rd Place:</strong><br />"Gondola Greg" Mohr &amp; Kalev Pallares -&nbsp;<em>Newport Beach, CA</em></p>&nbsp;<p class="text-align-center">See other year's results; <a href="/2014">2014</a>, <a href="/2015-1">2015</a>, and <a href="/2016-1">2016</a>.</p><div class="sqs-block-button-container--center" data-animation-tier="2" data-alignment="center" data-button-size="medium">
+	<a href="/take-action" class="sqs-block-button-element--medium sqs-block-button-element" >Register for 2018!</a>
+</div>
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1531342163254-XQ0PDZ6KZ2WNYWE9NP6S/ke17ZwdGBToddI8pDm48kNoNeaySFOBv6XHFlOoyEyB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k9kZPbuygN4RSDPe_G5PO9Jrs_6zWt1DHSYb62_vjY7CjLQ1H8lzsgMkW3WDSo60g/rick-vos-18745-unsplash.jpg?format=original" alt=""/>]]></content:encoded>
+      <wp:post_name>2017-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>126</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/2014</link>
+      <title>2014</title>
+      <pubDate>Wed, 27 Jun 2018 18:46:54 +0000</pubDate>
+      <content:encoded><![CDATA[<h2>2014 US GOndola Nationals results</h2><p>Single and Tandem Race 1st, 2nd,&nbsp;and 3rd place results for Sprint, Distance and Slalom Courses.<br />Hosted by <a target="_blank" href="http://www.gondolari.com">La Gondola Providence, Inc.</a></p>
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1530119063602-5SLM6G13JY5Y7M52Y9O0/ke17ZwdGBToddI8pDm48kMhISG_I1-ZdWAoeJWjclpBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxxB7mB09vBA-0un_-vRlXRtihkiwQZ-YUNZkRoyNAnAfjfy_oLOE-_pUiKjhqmQtw/10-26-14+1824.jpg?format=original" alt=""/>
+  
+
+<h1 class="text-align-center"><strong>SPRINT RACES</strong><br /> </h1><h3><strong>SINGLE</strong></h3><p><strong>1st Place:</strong><br />Eric "Enrico" Bender<em> - San Diego, CA</em><br /><br /><strong>2nd Place:</strong><br />Richard "Ricardo" Corbaley -<em>Huntington Beach, CA</em><br /><br /><strong>3rd Place:</strong><br />Tim "Bepi" Reinard <em>- Huntington Beach, CA</em></p><h3><strong>TANDEM</strong></h3><p><strong>1st Place:</strong><br />Eric "Enrico" Bender &amp; Cole 'Columbo" Hanson <em>-San Diego, CA</em></p><p><strong>2nd Place:</strong><br />Alexander "Alessandro" &amp; Matthew "Marcello" Haynes <em>- Providence, RI</em></p><p><strong>3rd Place:</strong><br />Richard "Ricardo" Corbaley &amp; Tim "Bepi" Reinard<em> -Huntington Beach, CA</em></p><hr /><h1 class="text-align-center"><strong>DISTANCE RACES</strong><br /> </h1><h3><strong>SINGLE</strong></h3><p><strong>1st Place:</strong><br />Eric "Enrico" Bender<em> - San Diego, CA</em><br /><br /><strong>2nd Place:</strong><br />Richard "Ricardo" Corbaley<em> -Huntington Beach, CA</em><br /><br /><strong>3rd Place:</strong><br />Alexander "Alessandro" Haynes <em>-Providence, RI</em></p>&nbsp;
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1530123211719-7E88PMZP8L9HX42GWCI5/ke17ZwdGBToddI8pDm48kErjFrddbdxoHQjyAV3kjGB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UZ3AhU26XS0c_u8NqEiq2r2t_qNwqAM8EC1L421AUTeu6nAENlVG3LGGTjPVbFT-SA/Tandem+Haynes+1736.JPG?format=original" alt=""/>
+  
+
+<h3><strong>TANDEM</strong></h3><p><strong>1st Place:</strong><br />Alexander "Alessandro" &amp; Matthew "Marcello" Haynes <em>- Providence, RI</em></p><p><strong>2nd Place:&nbsp;</strong><br />Eric "Enrico" Bender &amp; Cole "Columbo" Hanson <em>-San Diego, CA</em></p><p><strong>3rd Place:</strong><br />Richard "Ricardo" Corbaley &amp; Tim "Bepi" Reinard <em>-Huntington Beach, CA</em></p><hr /><h2 class="text-align-center">SLALOM obstacle course<br /> </h2><p class="text-align-center"><strong>1st Place:</strong></p><p>Eric "Enrico" Bender<em> - San Diego, CA</em></p><p> </p><p class="text-align-center"><strong>2nd Place:</strong></p><p>Matthew "Marcello" Haynes <em>-Providence, RI</em></p><p class="text-align-center"><strong>3rd Place:</strong></p><p>Tim "Amadeo" Coffey -&nbsp;<em>Providence, RI</em></p>
+  
+      <img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1530122983660-7101OX9R5DE5QPWPQKWY/ke17ZwdGBToddI8pDm48kE1tdNqvq3IiBJ2t0BT_hXsUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcjXQUS-CzA8YiGqtySbYWU3tcbddGTLxdB8DUq-kqVF6L518qy9hJepXwKAhu2XmA/slalom+2014+charlie-e.mohr.jpg?format=original" alt=""/>
+  
+
+&nbsp;<p class="text-align-center">See other years' results; <a href="/2015-1">2015</a>, <a href="/2016-1">2016</a>, and <a href="/2017-1">2017</a>.</p><div class="sqs-block-button-container--center" data-animation-tier="2" data-alignment="center" data-button-size="medium">
+	<a href="/take-action" class="sqs-block-button-element--medium sqs-block-button-element" >Register for 2018!</a>
+</div>]]></content:encoded>
+      <wp:post_name>2014</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>127</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/past-contestants</link>
+      <title>Past Contestants</title>
+      <pubDate>Wed, 01 Aug 2018 15:04:15 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center"><strong>US GONDOLA NATIONALS PAST CONTESTANTS</strong></h1>&nbsp;
+  
+       [caption id="" align="alignnone" width="852.0"]<a href="https://www.gondolari.com/home"  target="_blank" ><img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1532361589634-D8T28GZPFMVZYLUNBRJZ/ke17ZwdGBToddI8pDm48kLx4FGKiHJeky1ouvtcUOGhZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIa5iKaqvE0JbM_iTTfBC8NQ-5izMO0mMyFxTSV35eh0EKMshLAGzx4R3EDFOm1kBS/La+Gondola+Providence%2C+Inc.jpg?format=original" alt="  La Gondola Providence, Inc  -  Providence, Rhode Island  "/></a>   La Gondola Providence, Inc  -  Providence, Rhode Island  [/caption] 
+  
+
+
+  
+       [caption id="" align="alignnone" width="500.0"]<a href="https://www.gondolaromantica.com/"  target="_blank" ><img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1532362063922-IMMJLE9L4MZNGR9UDUXL/ke17ZwdGBToddI8pDm48kJYVeAL4IDRZBx-Ov1owsHBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyvSAMjt0OtB2my1PCA3tLJ19CDw_oe5e6os0DDsSny7qkEnKC0xbYIhafvjGzveFc/Gondola+Romantica.jpg?format=original" alt="  Gondola Romantica  -&nbsp; Stillwater, Minnesota  "/></a>   Gondola Romantica  -&nbsp; Stillwater, Minnesota  [/caption] 
+  
+
+&nbsp;
+  
+       [caption id="" align="alignnone" width="1280.0"]<a href="http://www.newportbeach.gondola.com/"  target="_blank" ><img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1532362684681-85Z2AB2JJWV7RB2RNDC0/ke17ZwdGBToddI8pDm48kFr-MCz83LG2ZqzGFu9uALUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcf42APUzg73I6BbvkUSZBpJhcOgRzHbaVuNgQSOKA8C5AwPhW16geOHSxinwWbjVI/EasySitePicture_5851113L.jpg?format=original" alt="  Gondola Adventures -&nbsp;  Newport Beach, California  "/></a>   Gondola Adventures -&nbsp;  Newport Beach, California  [/caption] 
+  
+
+
+  
+       [caption id="" align="alignnone" width="1113.0"]<a href="https://gondolas.com/"  target="_blank" ><img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1532362876603-2WIHTEQS0CQ3HCYSJS1L/ke17ZwdGBToddI8pDm48kItLy3xzZHVaXVxTRcyeoQAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcdvu4-dP1Cd-XkxWN-QcbWTLNBHaisJXM3_qgeFV48bbub7mtnZqqYaVyoiqPq-VX/Gondola+Company+of+Newport.jpg?format=original" alt="  Gondola Company of Newport  -&nbsp; Newport Beach, California  "/></a>   Gondola Company of Newport  -&nbsp; Newport Beach, California  [/caption] 
+  
+
+&nbsp;
+  
+       [caption id="" align="alignnone" width="960.0"]<a href="http://www.sunsetgondola.com/"  target="_blank" ><img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1532363951708-5WIQK7RSEIDLFPGSPZ1Z/ke17ZwdGBToddI8pDm48kNBhxsR5AixTPaSt36FQjZRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIHEpb-MmdDNvFVgjmeoENIlexef176In2EgYPtI8R2-8KMshLAGzx4R3EDFOm1kBS/Sunset+Gondola.jpg?format=original" alt="  Sunset Gondola  -&nbsp; Huntington Beach, California  "/></a>   Sunset Gondola  -&nbsp; Huntington Beach, California  [/caption] 
+  
+
+
+  
+       [caption id="" align="alignnone" width="960.0"]<a href="http://gondolaparadiso.com/"  target="_blank" ><img src="https://images.squarespace-cdn.com/content/v1/5b314534d274cbc839299307/1533135637907-8N2STE323UO3063IX6EP/ke17ZwdGBToddI8pDm48kBtpJ0h6oTA_T7DonTC8zFdZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIWkiAYz5ghgEgSGJuDQ4e1ZKXpRdhEMT7SgthRpD0vyIKMshLAGzx4R3EDFOm1kBS/gondola+paradiso2.jpg?format=original" alt="  Gondola Paradiso  -&nbsp; Oxnard, California  "/></a>   Gondola Paradiso  -&nbsp; Oxnard, California  [/caption]]]></content:encoded>
+      <wp:post_name>past-contestants</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>128</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
